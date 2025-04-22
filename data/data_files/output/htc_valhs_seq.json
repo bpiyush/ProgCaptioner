@@ -1,0 +1,770 @@
+[
+    {
+        "idx": "0020",
+        "action_label": "slicing butter",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/uYC9xAvPcro_st375.0_dur40.0/frame005.png",
+            "data/howtochange/val_frames/uYC9xAvPcro_st375.0_dur40.0/frame012.png",
+            "data/howtochange/val_frames/uYC9xAvPcro_st375.0_dur40.0/frame013.png",
+            "data/howtochange/val_frames/uYC9xAvPcro_st375.0_dur40.0/frame036.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting slicing butter, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n",
+        "response0": "<Frame 1>: A person in a red shirt is standing behind a wooden table, holding a knife and preparing to cut two pieces of butter on a white plate. There is also a plastic-wrapped item on the right side of the frame.\n<Frame 2>: The same person is seen pressing down on one of the butter pieces with their hand while still holding the knife, indicating they are about to cut or manipulate the butter further.\n<Frame 3>: The person continues to work with the butter on the same wooden table. They use their hands to press down on the butter, possibly to flatten it or prepare it for further processing. The small plastic packet remains visible on the right side of the frame.\n<Frame 4>: The same person is now placing the sliced butter cubes from the white plate into a large black pot that already contains some butter. The pot is lined with aluminum foil, and there are several other pieces of butter floating on top of the liquid inside the pot."
+    },
+    {
+        "idx": "0027",
+        "action_label": "whipping milk",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/pvg7GV4n3es_st48.0_dur40.0/frame024.png",
+            "data/howtochange/val_frames/pvg7GV4n3es_st48.0_dur40.0/frame025.png",
+            "data/howtochange/val_frames/pvg7GV4n3es_st48.0_dur40.0/frame032.png",
+            "data/howtochange/val_frames/pvg7GV4n3es_st48.0_dur40.0/frame035.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting whipping milk, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n",
+        "response0": "<Frame 1>: The image shows a kitchen stove with a black frying pan placed on one of the burners. There is a small amount of oil in the pan, and various kitchen items are visible on the countertop, including a blue spatula, a bowl with a yellow substance, and a container with a red lid.\n<Frame 2>: The scene remains largely unchanged from the first frame. The black frying pan is still on the stove, and the same kitchen items are present on the countertop. The oil in the pan appears to be the same as in the first frame.\n<Frame 3>: In this frame, a hand is holding an egg over a glass bowl containing two eggs. The bowl is placed on the stove, and a whisk is visible inside the bowl, suggesting that the person is about to whisk the eggs.\n<Frame 4>: The same person is now whisking the contents of the glass bowl, which appears to be a mixture of eggs and possibly other ingredients. The background remains consistent with the previous frame, showing the white tiled wall, blue spatula, and containers with orange lids."
+    },
+    {
+        "idx": "0029",
+        "action_label": "shredding chicken",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/W4_gfUkLL7I_st127.0_dur40.0/frame004.png",
+            "data/howtochange/val_frames/W4_gfUkLL7I_st127.0_dur40.0/frame005.png",
+            "data/howtochange/val_frames/W4_gfUkLL7I_st127.0_dur40.0/frame016.png",
+            "data/howtochange/val_frames/W4_gfUkLL7I_st127.0_dur40.0/frame032.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting shredding chicken, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n",
+        "response0": "<Frame 1>: The image shows a close-up of a pressure cooker with a metallic interior. Inside the pot, there are several pieces of chicken that appear to be cooked and coated in a reddish-brown sauce. The sauce has a glossy texture, suggesting it might be a barbecue or similar type of sauce. The chicken pieces are partially submerged in the sauce, and the pot is placed on a stove, indicating that the cooking process is either ongoing or has just been completed.\n<Frame 2>: This frame is identical to the first one, showing the same pressure cooker with the same contents: several pieces of chicken in a reddish-brown sauce. There are no visible changes or actions taking place between the two frames.\n<Frame 3>: The image displays the same pressure cooker, but now it contains shredded chicken instead of whole pieces. The chicken is mixed with the same reddish-brown sauce as before, and the pot appears to be filled with a more uniform mixture of shredded meat and sauce.\n<Frame 4>: The image continues to show the pressure cooker with shredded chicken in a red sauce. The chicken appears to be more evenly distributed throughout the sauce, and there is steam rising from the pot, indicating that the cooking process is still ongoing."
+    },
+    {
+        "idx": "0031",
+        "action_label": "slicing meat",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/G_PGTLaPkUE_st927.0_dur40.0/frame003.png",
+            "data/howtochange/val_frames/G_PGTLaPkUE_st927.0_dur40.0/frame023.png",
+            "data/howtochange/val_frames/G_PGTLaPkUE_st927.0_dur40.0/frame026.png",
+            "data/howtochange/val_frames/G_PGTLaPkUE_st927.0_dur40.0/frame034.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting slicing meat, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n",
+        "response0": "<Frame 1>: A close-up of a large piece of cooked meat, likely beef, placed on a wooden cutting board. The meat has a dark, crispy exterior and is cut in half, revealing its juicy, pink interior. A person wearing black gloves is seen touching the meat, indicating it is being prepared for slicing.\n<Frame 2>: The same piece of meat is shown again, but this time a large knife is being used to slice through it. The person's hand, still wearing a black glove, holds the knife steady as it cuts into the meat, emphasizing the action of slicing and the texture of the meat.\n<Frame 3>: The same scene continues with the person making precise cuts into the meat, further dividing it into smaller portions. The focus remains on the action of slicing the meat, highlighting the texture and color contrast between the cooked exterior and the raw interior.\n<Frame 4>: The same person is now holding the sliced meat with one hand while using the knife to separate the two halves. The meat appears juicy and well-cooked, with a rich red color inside. The cutting board shows some blood stains around the meat, indicating that it has been recently cut."
+    },
+    {
+        "idx": "0037",
+        "action_label": "sauteing carrot",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/3S-K4k1y13c_st120.0_dur40.0/frame013.png",
+            "data/howtochange/val_frames/3S-K4k1y13c_st120.0_dur40.0/frame026.png",
+            "data/howtochange/val_frames/3S-K4k1y13c_st120.0_dur40.0/frame028.png",
+            "data/howtochange/val_frames/3S-K4k1y13c_st120.0_dur40.0/frame030.png",
+            "data/howtochange/val_frames/3S-K4k1y13c_st120.0_dur40.0/frame036.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting sauteing carrot, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n",
+        "response0": "<Frame 1>: The image shows a copper pan with five pieces of beef, each seasoned with red pepper flakes and garlic. The beef appears to be cooked, and there are some red pepper flakes scattered around the pan.\n<Frame 2>: The image shows the same copper pan with five pieces of beef, but now there are sliced carrots added to the pan. The beef is still seasoned with red pepper flakes and garlic, and the carrots are scattered around the beef.\n<Frame 3>: The image is similar to the first one, showing the same copper pan with beef chunks, garlic, and red chili peppers. However, there are now additional ingredients visible: sliced carrots have been added to the pan, covering some of the beef and garlic. The carrots are orange and appear to be freshly cut. The pan remains on the granite countertop, and the overall scene suggests that the cooking process is ongoing.\n<Frame 4>: The image is similar to the first one, showing the same copper pan with beef chunks, garlic, and red chili peppers. However, there is a noticeable difference: a bottle of red wine is being poured into the pan, adding a liquid element to the scene. The wine is being poured from the top right corner of the frame, creating a splash as it hits the pan.\n<Frame 5>: The same pan, now with the red wine fully poured over the meat and vegetables, causing the liquid level to rise and submerge some of the ingredients."
+    },
+    {
+        "idx": "0045",
+        "action_label": "chopping jalapeno",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/a3v-7jxMzuQ_st135.0_dur40.0/frame006.png",
+            "data/howtochange/val_frames/a3v-7jxMzuQ_st135.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/a3v-7jxMzuQ_st135.0_dur40.0/frame032.png",
+            "data/howtochange/val_frames/a3v-7jxMzuQ_st135.0_dur40.0/frame033.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting chopping jalapeno, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n",
+        "response0": "<Frame 1>: A woman is standing in a kitchen, wearing a blue sweater with a heart pattern. She is chopping green onions on a wooden cutting board. The kitchen has a stone wall, a stove, and various kitchen items on the counter.\n<Frame 2>: The woman is standing in front of a kitchen counter, wearing a blue sweater with a heart pattern. She is holding a knife and pointing at a green onion on a wooden cutting board. On the counter, there are chopped green onions, a measuring cup with a liquid, a blender, and a bowl of rice.\n<Frame 3>: The person is slicing the green jalapeno pepper on the same wooden cutting board. The ingredients and utensils remain the same as in the previous frame.\n<Frame 4>: The person is slicing the green jalapeno pepper on the same wooden cutting board. The ingredients and utensils remain the same as in the previous frame."
+    },
+    {
+        "idx": "0051",
+        "action_label": "browning beef",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/iC_CIlzFLXU_st29.0_dur40.0/frame005.png",
+            "data/howtochange/val_frames/iC_CIlzFLXU_st29.0_dur40.0/frame016.png",
+            "data/howtochange/val_frames/iC_CIlzFLXU_st29.0_dur40.0/frame023.png",
+            "data/howtochange/val_frames/iC_CIlzFLXU_st29.0_dur40.0/frame024.png",
+            "data/howtochange/val_frames/iC_CIlzFLXU_st29.0_dur40.0/frame037.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting browning beef, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n",
+        "response0": "<Frame 1>: A close-up of a black pressure cooker with its lid open, revealing a hand holding a black spatula and placing raw red meat into the pot. The interior of the cooker is beige, and the exterior is black.\n<Frame 2>: The same hand continues to use the black spatula to stir the now browned ground meat in the pressure cooker, indicating that it has been cooking for a while.\n<Frame 3>: The same pressure cooker, now showing the cooked ground meat inside. The meat appears browned and well-cooked. In the background, there is a white plate with a floral design and some kitchen items on the counter.\n<Frame 4>: The image is identical to the first frame, showing the same pressure cooker with browned ground beef inside. There are no visible changes or actions taking place between the two frames.\n<Frame 5>: In this frame, a hand is seen pouring a box of garlic powder into the pressure cooker. The box is labeled \"Garlic Powder\" and is being held by the hand, which is positioned above the pot. The action suggests that the person is adding garlic powder to the cooked ground beef."
+    },
+    {
+        "idx": "0054",
+        "action_label": "grilling eggplant",
+        "n_frames": 3,
+        "image_files": [
+            "data/howtochange/val_frames/mZtny6dGmgE_st110.0_dur40.0/frame019.png",
+            "data/howtochange/val_frames/mZtny6dGmgE_st110.0_dur40.0/frame024.png",
+            "data/howtochange/val_frames/mZtny6dGmgE_st110.0_dur40.0/frame029.png"
+        ],
+        "query0": "These are 3 frames extracted from a video sequence depicting grilling eggplant, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 3>: Your description\n",
+        "response0": "<Frame 1>: A person wearing a white chef's coat is standing in front of a kitchen counter with a tiled backsplash. The individual appears to be speaking or presenting, as indicated by their open mouth and direct gaze towards the camera.\n<Frame 2>: A close-up shot of an eggplant placed on a grill. The eggplant has a dark purple skin with some greenish areas, suggesting it may have been recently washed or is being grilled. The grill grates are visible beneath the eggplant, indicating that it is being cooked over heat.\n<Frame 3>: In this frame, a pair of tongs is holding the eggplant, which is now being lifted from the grill. The eggplant's skin is charred and wrinkled, indicating it has been cooked for some time. The tongs are metallic and have a shiny surface."
+    },
+    {
+        "idx": "0056",
+        "action_label": "peeling prawn",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/aZCpY0smEl4_st89.0_dur40.0/frame006.png",
+            "data/howtochange/val_frames/aZCpY0smEl4_st89.0_dur40.0/frame010.png",
+            "data/howtochange/val_frames/aZCpY0smEl4_st89.0_dur40.0/frame012.png",
+            "data/howtochange/val_frames/aZCpY0smEl4_st89.0_dur40.0/frame016.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting peeling prawn, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n",
+        "response0": "<Frame 1>: A pair of hands is seen holding a shrimp over a clear glass bowl, with another bowl containing more shrimp in the background. The hands are positioned above the bowl, and the shrimp appears to be freshly caught, as indicated by its vibrant color and texture.\n<Frame 2>: The same pair of hands is now peeling the shrimp over the same clear glass bowl. The shrimp is being held between the fingers, and the shell is being removed from one end. The background remains consistent with the previous frame, showing a gray surface and another bowl filled with more shrimp.\n<Frame 3>: The same hands continue to peel the shrimp, placing it into the bowl. The focus remains on the detailed process of cleaning the shrimp, highlighting the precision and care taken in this task.\n<Frame 4>: The same person is now holding a single shrimp in their hands, carefully peeling off the shell to reveal the white meat inside. The background remains consistent with the previous frame, showing a gray countertop and another glass bowl filled with more shrimp."
+    },
+    {
+        "idx": "0057",
+        "action_label": "rolling cake",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/grgDp1eVymM_st269.0_dur40.0/frame005.png",
+            "data/howtochange/val_frames/grgDp1eVymM_st269.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/grgDp1eVymM_st269.0_dur40.0/frame024.png",
+            "data/howtochange/val_frames/grgDp1eVymM_st269.0_dur40.0/frame031.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting rolling cake, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n",
+        "response0": "<Frame 1>: The image shows a rectangular cake with a smooth, chocolatey surface placed on a metal tray. The cake appears to be freshly baked and is resting on a stove top. A knife with a wooden handle is visible in the foreground, suggesting that it might be used for cutting the cake.\n<Frame 2>: In this frame, a person wearing a green apron with a floral pattern is seen rolling a cake gently with both hands. The cake has a layered structure, with alternating layers of chocolate and white filling. The text overlay provides instructions on how to roll the cake, emphasizing the importance of lifting and folding with both hands to ensure an even roll.\n<Frame 3>: The scene continues with the same close-up view of the rectangular cake on the metal baking tray. The person's hands are still visible, pressing down on the top layer of the cake. The text \"Roll the cake gently, lifting and folding with both hands\" remains overlaid on the image, reinforcing the instruction. The person's hands are now shown in more detail, with one hand pressing down on the top layer while the other hand supports the bottom layer. The background remains consistent with the previous frame, showing the same kitchen setting with a tiled floor and part of a stove visible.\n<Frame 4>: The same person is seen rolling a large piece of white dough over the previously rolled chocolate cake. The dough is being pressed down onto the cake, covering its surface. The background remains consistent with the previous frame, showing the same kitchen setting."
+    },
+    {
+        "idx": "0071",
+        "action_label": "crushing peanut",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/NDG2r7PgXe8_st205.0_dur40.0/frame014.png",
+            "data/howtochange/val_frames/NDG2r7PgXe8_st205.0_dur40.0/frame023.png",
+            "data/howtochange/val_frames/NDG2r7PgXe8_st205.0_dur40.0/frame034.png",
+            "data/howtochange/val_frames/NDG2r7PgXe8_st205.0_dur40.0/frame038.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting crushing peanut, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n",
+        "response0": "<Frame 1>: A person wearing a red plaid shirt is holding a large metal mixing bowl filled with a mixture of peanuts and dates. The person has red nail polish and is standing in a kitchen with wooden cabinets. On the countertop, there are two packets of chocolate chips and a glass measuring cup. The person appears to be preparing ingredients for a recipe.\n<Frame 2>: The same person is seen pouring the contents of the metal mixing bowl into a food processor. The food processor is black and silver, and it is placed on a granite countertop. The person is wearing a red plaid shirt and has red nail polish. In the background, there is a glimpse of a kitchen setting with various appliances and items.\n<Frame 3>: A close-up view of the black food processor on the granite countertop, showing the chopped nuts inside the transparent container. The food processor has a label that reads \"Hamilton Beach.\" There are no people visible in this frame.\n<Frame 4>: This frame provides a closer view of the food processor's interior, focusing on the ground-up ingredients. The processor is still on the granite countertop, and the person's hands are visible, suggesting they are about to operate the machine or have just finished doing so. The text \"Food processor\" is overlaid at the bottom of the image, indicating the type of appliance being used."
+    },
+    {
+        "idx": "0076",
+        "action_label": "chopping cucumber",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/8_GSgprtCrk_st372.0_dur40.0/frame018.png",
+            "data/howtochange/val_frames/8_GSgprtCrk_st372.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/8_GSgprtCrk_st372.0_dur40.0/frame028.png",
+            "data/howtochange/val_frames/8_GSgprtCrk_st372.0_dur40.0/frame030.png",
+            "data/howtochange/val_frames/8_GSgprtCrk_st372.0_dur40.0/frame038.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting chopping cucumber, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n",
+        "response0": "<Frame 1>: In this frame, a woman is standing in a kitchen, wearing a white chef's coat and a black apron. She is holding a knife and appears to be cutting something on a wooden cutting board. The kitchen is well-equipped with various utensils and appliances visible in the background.\n<Frame 2>: In this frame, the woman is still in the kitchen, wearing the same attire as before. She is now cutting a green leafy vegetable, likely spinach, on the same wooden cutting board. The man standing beside her has his hands clasped together, observing her actions. The kitchen remains the same, with the same background elements visible.\n<Frame 3>: In this frame, the woman is still in the kitchen, wearing the same white chef's coat and black apron. She is now standing next to the man, who is also wearing a dark shirt. They are both looking at the table, which has various items on it, including a plate of food, a bowl, and some vegetables. The woman appears to be preparing to cut something, possibly the cucumber, while the man is observing her actions.\n<Frame 4>: In this frame, the woman is actively chopping a cucumber on a wooden cutting board. She is using a knife to cut the cucumber into smaller pieces. The man is standing beside her, watching her work. The kitchen counter has various items on it, including a plate of food, a bowl, and some vegetables. The background shows shelves with pots and pans, and a window with yellow trim.\n<Frame 5>: In this frame, the woman is seen pouring a liquid from a small glass container onto the cutting board. The man is still standing beside her, watching her actions. The kitchen counter remains cluttered with the same items as before, including the plate of food, the bowl, the lemon, the cucumber, and the knife. The background shows a window with a view of the outside, and the shelves with pots and pans are still visible."
+    },
+    {
+        "idx": "0079",
+        "action_label": "blending sugar",
+        "n_frames": 6,
+        "image_files": [
+            "data/howtochange/val_frames/erKRFeuUAlo_st79.0_dur40.0/frame006.png",
+            "data/howtochange/val_frames/erKRFeuUAlo_st79.0_dur40.0/frame015.png",
+            "data/howtochange/val_frames/erKRFeuUAlo_st79.0_dur40.0/frame020.png",
+            "data/howtochange/val_frames/erKRFeuUAlo_st79.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/erKRFeuUAlo_st79.0_dur40.0/frame023.png",
+            "data/howtochange/val_frames/erKRFeuUAlo_st79.0_dur40.0/frame029.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting blending sugar, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n",
+        "response0": "<Frame 1>: The image shows a white countertop with various ingredients arranged in small bowls. There are two bowls of pistachios, one bowl of sugar, one bowl of flour, two bowls of eggs, one bowl of oil, and two spoons. A large glass bowl containing a green liquid is also present.\n<Frame 2>: The image displays a blender with a transparent lid. Inside the blender, there are several pistachios covered in a white powdery substance, likely sugar or flour. The blender appears to be ready for blending the ingredients.\n<Frame 3>: The scene transitions to show the same blender jar now filled with a yellowish mixture, indicating that the ingredients have been blended together. The background remains plain white, keeping the focus on the blender and its contents.\n<Frame 4>: The image displays a blender with a transparent container filled with a smooth, greenish-yellow liquid. The blender has measurement markings on the side, and the text \"BPA FREE\" is visible at the bottom right corner.\n<Frame 5>: The image is identical to the first frame, showing the same blender with a greenish mixture inside. The blender's measurement markings and the \"BPA FREE\" label are also visible. There are no noticeable changes in the state of the mixture or the blender between the two frames.\n<Frame 6>: In this frame, a hand is seen stirring a green mixture in a glass bowl. There are three other bowls on the table, one containing flour, another with a white substance, and a third with a yellowish liquid. The hand is actively mixing the green mixture, suggesting that the blending process has been completed and the mixture is being prepared for further use."
+    },
+    {
+        "idx": "0083",
+        "action_label": "squeezing zucchini",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/pO47mfnyVrg_st13.0_dur40.0/frame008.png",
+            "data/howtochange/val_frames/pO47mfnyVrg_st13.0_dur40.0/frame014.png",
+            "data/howtochange/val_frames/pO47mfnyVrg_st13.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/pO47mfnyVrg_st13.0_dur40.0/frame023.png",
+            "data/howtochange/val_frames/pO47mfnyVrg_st13.0_dur40.0/frame028.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting squeezing zucchini, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n",
+        "response0": "<Frame 1>: The image shows a large, empty stainless steel bowl placed on a white surface. The bowl is clean and shiny, reflecting light from the surrounding environment.\n<Frame 2>: In this frame, a person is grating a cucumber using a metal grater. The cucumber is being held by the person's hand, and the grater is positioned over the same stainless steel bowl seen in the previous frame. There is also a whole cucumber visible on the left side of the frame.\n<Frame 3>: A close-up shot of the same stainless steel bowl now filled with finely shredded green zucchini. The bowl is placed on a white countertop, and the background shows a tiled floor and part of a sink.\n<Frame 4>: The image is identical to the first frame, showing the same metal bowl filled with shredded zucchini on a white countertop. There are no noticeable changes in the objects or their states between the two frames.\n<Frame 5>: In this frame, a hand is seen mixing the shredded zucchini in the metal bowl. The hand is pressing down on the zucchini, likely to combine it thoroughly or to remove excess moisture."
+    },
+    {
+        "idx": "0086",
+        "action_label": "chopping pecan",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/eY0yqIufaeM_st88.0_dur40.0/frame018.png",
+            "data/howtochange/val_frames/eY0yqIufaeM_st88.0_dur40.0/frame021.png",
+            "data/howtochange/val_frames/eY0yqIufaeM_st88.0_dur40.0/frame025.png",
+            "data/howtochange/val_frames/eY0yqIufaeM_st88.0_dur40.0/frame026.png",
+            "data/howtochange/val_frames/eY0yqIufaeM_st88.0_dur40.0/frame027.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting chopping pecan, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n",
+        "response0": "<Frame 1>: A close-up shot of a person's hands chopping pecans on a wooden cutting board using a large knife. The pecans are being finely chopped, and the person's hands are visible, holding the knife and guiding it through the nuts.\n<Frame 2>: A close-up shot of a pile of finely chopped pecans spread out on the same wooden cutting board. The pecans are light brown in color and appear to be freshly chopped, with no other objects or actions visible in the frame.\n<Frame 3>: In this frame, a person is seen mixing ingredients in a glass bowl. The bowl contains a white substance, likely flour or sugar, and there are small pieces of chopped pecans visible at the bottom of the bowl. The person's hands are actively stirring the contents with a spoon.\n<Frame 4>: A top-down view of the same glass bowl, now showing a layer of flour on top of the previously mixed ingredients. The flour is evenly spread across the surface, indicating that it has been added to the mixture.\n<Frame 5>: The image is identical to the first one, showing the same clear glass bowl with a mixture of flour and chopped nuts. There are no visible changes in the contents or the state of the mixture between the two frames."
+    },
+    {
+        "idx": "0103",
+        "action_label": "slicing pepperoni",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/-pSiLjumXXU_st347.0_dur40.0/frame017.png",
+            "data/howtochange/val_frames/-pSiLjumXXU_st347.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/-pSiLjumXXU_st347.0_dur40.0/frame024.png",
+            "data/howtochange/val_frames/-pSiLjumXXU_st347.0_dur40.0/frame028.png",
+            "data/howtochange/val_frames/-pSiLjumXXU_st347.0_dur40.0/frame036.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting slicing pepperoni, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n",
+        "response0": "<Frame 1>: A person wearing a light blue apron is standing behind a wooden cutting board, with their hands pointing at four slices of pepperoni arranged in a square pattern on the board. The background is blurred, focusing attention on the cutting board and the pepperoni slices.\n<Frame 2>: The same person is seen picking up one of the pepperoni slices from the cutting board, indicating the beginning of a cooking process. The focus remains on the action of handling the pepperoni slice, with no other objects or actions visible in this frame.\n<Frame 3>: The same person is now using a large knife to slice one of the pepperoni pieces on the wooden cutting board. The person's hands are visible, holding the knife and guiding it through the pepperoni. The background remains out of focus, keeping the attention on the action of slicing the pepperoni.\n<Frame 4>: The same person continues to slice the pepperoni into smaller pieces on the wooden cutting board. The pepperoni is now cut into thin strips, and the person's hands are still visible, guiding the knife with precision.\n<Frame 5>: The same person is now chopping the previously sliced pepperoni into smaller pieces on the same wooden cutting board. The person's hands are actively engaged in the chopping process, and the chopped pepperoni is accumulating on the board."
+    },
+    {
+        "idx": "0105",
+        "action_label": "sauteing ginger",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/uiOg974Eprg_st311.0_dur40.0/frame015.png",
+            "data/howtochange/val_frames/uiOg974Eprg_st311.0_dur40.0/frame020.png",
+            "data/howtochange/val_frames/uiOg974Eprg_st311.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/uiOg974Eprg_st311.0_dur40.0/frame025.png",
+            "data/howtochange/val_frames/uiOg974Eprg_st311.0_dur40.0/frame039.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting sauteing ginger, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n",
+        "response0": "<Frame 1>: A close-up of a stainless steel pan on a stove, where a small amount of oil is being heated. A wooden spatula rests in the pan, and a hand is seen adding minced garlic to the pan. The background shows part of the stove and kitchen counter.\n<Frame 2>: The same stainless steel pan on the stove, now with the minced garlic starting to cook in the oil. The wooden spatula remains in the pan, and there are no visible changes or actions occurring in this frame.\n<Frame 3>: The scene continues with the same stainless steel pan on the stove, where the minced garlic is still being saut\u00e9ed in the oil. The wooden spatula remains in the pan, and there are no significant changes or actions occurring in this frame.\n<Frame 4>: The scene continues with the same stainless steel pan on the stove, where the minced garlic is now sizzling in the oil. The wooden spatula remains in the pan, indicating that it has been used to stir the garlic. The background still shows part of the stove and kitchen counter, maintaining continuity with the previous frame.\n<Frame 5>: In this frame, the wooden spatula is being used to stir the ginger in the pan. The ginger appears to be cooking, and steam is rising from the pan, indicating that the heat is on. The spatula is actively engaged in mixing the ingredients."
+    },
+    {
+        "idx": "0111",
+        "action_label": "grilling onion",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/FGeuT9ccQXU_st591.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/FGeuT9ccQXU_st591.0_dur40.0/frame024.png",
+            "data/howtochange/val_frames/FGeuT9ccQXU_st591.0_dur40.0/frame030.png",
+            "data/howtochange/val_frames/FGeuT9ccQXU_st591.0_dur40.0/frame031.png",
+            "data/howtochange/val_frames/FGeuT9ccQXU_st591.0_dur40.0/frame037.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting grilling onion, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n",
+        "response0": "<Frame 1>: A person is standing next to a grill, holding an onion in their hand. The background shows a rustic outdoor setting with wooden logs and greenery. On the table, there are various items including a bottle of oil, a plate with food, and a cutting board.\n<Frame 2>: The same person is now using tongs to handle food on a wooden cutting board placed on a table next to the grill. There is a plate with sliced meat and a knife on the cutting board. The background includes a large wooden wheel and some plants.\n<Frame 3>: The same person is now slicing an onion on the wooden cutting board. The grill with chicken pieces remains visible in the foreground, and the background still shows the rustic outdoor setting with the large wooden wheel and greenery. Additionally, there is a bottle of beer and other cooking supplies on a table to the left.\n<Frame 4>: The person continues to slice the onion on the wooden cutting board. The grill with chicken pieces remains visible in the foreground, and the background still shows the rustic outdoor setting with the large wooden wheel and greenery. The person is still wearing the black t-shirt with red text and a hat, and there is a white cloth hanging from their pocket.\n<Frame 5>: The person places one half of the sliced onion onto the grill next to the chicken, while the other half remains on the cutting board. The background remains consistent with the previous frame, showing the same outdoor setting with a large wooden wheel and various items on a table."
+    },
+    {
+        "idx": "0118",
+        "action_label": "grating cucumber",
+        "n_frames": 6,
+        "image_files": [
+            "data/howtochange/val_frames/VjgWIUaDvdw_st363.0_dur40.0/frame003.png",
+            "data/howtochange/val_frames/VjgWIUaDvdw_st363.0_dur40.0/frame025.png",
+            "data/howtochange/val_frames/VjgWIUaDvdw_st363.0_dur40.0/frame027.png",
+            "data/howtochange/val_frames/VjgWIUaDvdw_st363.0_dur40.0/frame029.png",
+            "data/howtochange/val_frames/VjgWIUaDvdw_st363.0_dur40.0/frame034.png",
+            "data/howtochange/val_frames/VjgWIUaDvdw_st363.0_dur40.0/frame037.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting grating cucumber, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n",
+        "response0": "<Frame 1>: A close-up of a person's hands holding a peeled cucumber, showcasing its green color and texture. The background is blurred, focusing attention on the cucumber. The text \"Recipe: Super Green Chef\" appears in the bottom right corner, indicating that this is part of a cooking tutorial or recipe video.\n<Frame 2>: A wider shot of a kitchen setting where a person wearing a red shirt and a white apron with the text \"Tastiki\" is standing behind a counter. On the counter, there is a grater and a small container labeled \"Grate cucumbers.\" The person is holding a piece of paper with the same text as the apron. The background includes various kitchen items such as jars, bottles, and utensils, creating a homely and practical cooking environment.\n<Frame 3>: In this frame, the woman is holding a slice of bread in her left hand and a grater in her right hand. She is wearing a red shirt and a white apron with a cartoon character on it. The kitchen counter has various items, including a red bowl, a bottle, and a container. The text on the screen reads \"Tastiki Grate cucumbers.\"\n<Frame 4>: The scene transitions to a close-up of the person's hands as they grate a cucumber using a metal box grater over a white plate. On the wooden cutting board, there are several sliced cucumbers, a knife, and various spices including a container of salt, a jar of pepper, and a bottle of oil. The person is wearing a red shirt and a white apron with a cartoon character on it.\n<Frame 5>: The person is holding a metal box grater over a white bowl, preparing to grate a cucumber. The focus is on the action of grating, showing the person's hands and the grater in detail.\n<Frame 6>: A close-up of the metal grater being used to shred green vegetables, likely cucumbers, into a white bowl. The grater has a series of small holes and is held by two hands. The shredded vegetables are visible on the grater and in the bowl."
+    },
+    {
+        "idx": "0128",
+        "action_label": "browning garlic",
+        "n_frames": 3,
+        "image_files": [
+            "data/howtochange/val_frames/R0eAD6nVA5Q_st244.0_dur40.0/frame013.png",
+            "data/howtochange/val_frames/R0eAD6nVA5Q_st244.0_dur40.0/frame018.png",
+            "data/howtochange/val_frames/R0eAD6nVA5Q_st244.0_dur40.0/frame036.png"
+        ],
+        "query0": "These are 3 frames extracted from a video sequence depicting browning garlic, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 3>: Your description\n",
+        "response0": "<Frame 1>: A close-up of a black frying pan on a stove, where sliced onions are being fried in hot oil. A hand holding a knife stirs the onions to ensure even cooking.\n<Frame 2>: The same frying pan, but now the onions have turned a golden color, indicating they are being caramelized. The hand continues to stir the onions with a spatula, ensuring they cook evenly.\n<Frame 3>: The scene transitions to show the same frying pan, now containing a mixture of sliced garlic and other ingredients that have been added to the pan. The garlic is starting to brown, indicating it is being cooked further. A pair of metal tongs is used to stir the contents of the pan, ensuring even cooking."
+    },
+    {
+        "idx": "0135",
+        "action_label": "melting sugar",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/SXiyp3-sO4M_st107.0_dur40.0/frame006.png",
+            "data/howtochange/val_frames/SXiyp3-sO4M_st107.0_dur40.0/frame020.png",
+            "data/howtochange/val_frames/SXiyp3-sO4M_st107.0_dur40.0/frame021.png",
+            "data/howtochange/val_frames/SXiyp3-sO4M_st107.0_dur40.0/frame035.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting melting sugar, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n",
+        "response0": "<Frame 1>: A close-up of a hand holding a metal bowl containing a green, creamy mixture. The background shows various kitchen items, including a container of salt and a packet of sugar. The hand is stirring the mixture with a white spatula.\n<Frame 2>: The same hand continues to stir the green, creamy mixture in the metal bowl. The background remains consistent with the previous frame, showing the same kitchen items. Additionally, there is now a small white ramekin on the wooden countertop next to the bowl.\n<Frame 3>: The same scene as the previous frame, but the person's hand is now more visible, showing that they are wearing a white sleeve. The background remains consistent with the previous frame, featuring the same kitchen items.\n<Frame 4>: The same hand is now holding the mixing bowl, which contains a smooth, light green batter. The background includes additional kitchen items such as a container labeled 'TIP', a bag of white powder (likely flour or sugar), and another small white ramekin."
+    },
+    {
+        "idx": "0136",
+        "action_label": "blending garlic",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/zVZzLOth1aE_st155.0_dur40.0/frame011.png",
+            "data/howtochange/val_frames/zVZzLOth1aE_st155.0_dur40.0/frame012.png",
+            "data/howtochange/val_frames/zVZzLOth1aE_st155.0_dur40.0/frame021.png",
+            "data/howtochange/val_frames/zVZzLOth1aE_st155.0_dur40.0/frame022.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting blending garlic, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n",
+        "response0": "<Frame 1>: A close-up shot of a hand holding a lemon half over a transparent blender jar filled with green leafy vegetables. The background features a beige surface with a subtle pattern. The text 'shebayermefood.com' is visible at the bottom right corner of the frame.\n<Frame 2>: The same hand is seen squeezing the lemon half over the blender jar, allowing the juice to drip into it. The background remains consistent with the beige surface and subtle pattern. The text 'shebayermefood.com' continues to be visible at the bottom right corner of the frame.\n<Frame 3>: A wider shot showing a person holding the lid of the blender, which contains chopped green vegetables. The text \"Subscribe to Sheba Yemini Food if you want more videos\" appears at the bottom of the frame.\n<Frame 4>: The same scene as the previous frame, but now the text \"Subscribe to Sheba Yemini Food if you want more videos\" is displayed at the bottom of the image."
+    },
+    {
+        "idx": "0138",
+        "action_label": "whipping egg",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/7_AM8nmo_sI_st272.0_dur40.0/frame016.png",
+            "data/howtochange/val_frames/7_AM8nmo_sI_st272.0_dur40.0/frame026.png",
+            "data/howtochange/val_frames/7_AM8nmo_sI_st272.0_dur40.0/frame028.png",
+            "data/howtochange/val_frames/7_AM8nmo_sI_st272.0_dur40.0/frame037.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting whipping egg, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n",
+        "response0": "<Frame 1>: A close-up of a stainless steel mixing bowl containing a yellow liquid, likely beaten eggs, with a white electric hand mixer labeled \"KitchenAid\" being used to whip the mixture. The person's hands are visible, holding the bowl steady while the mixer is turned on.\n<Frame 2>: The same stainless steel mixing bowl now contains a frothy, white mixture, indicating that the whipping process has been completed. The white electric hand mixer is still attached to the bowl, and the person's hands are no longer visible in this frame.\n<Frame 3>: The scene continues with the same close-up view of the stainless steel mixing bowl on the white countertop. The white electric hand mixer labeled 'KitchenAid' remains in place, and the person's hand is still holding the bowl steady. The mixer beaters are actively whipping the white liquid, which has now become more frothy and aerated. The focus remains on the mixing process, highlighting the transformation of the liquid as it is being whipped.\n<Frame 4>: The same scene as the previous frame, but without the person's hand visible. The mixer continues to whip the cream, creating a smooth and fluffy texture."
+    },
+    {
+        "idx": "0139",
+        "action_label": "chopping walnut",
+        "n_frames": 3,
+        "image_files": [
+            "data/howtochange/val_frames/sL3fZ9QCeso_st113.0_dur40.0/frame017.png",
+            "data/howtochange/val_frames/sL3fZ9QCeso_st113.0_dur40.0/frame027.png",
+            "data/howtochange/val_frames/sL3fZ9QCeso_st113.0_dur40.0/frame033.png"
+        ],
+        "query0": "These are 3 frames extracted from a video sequence depicting chopping walnut, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 3>: Your description\n",
+        "response0": "<Frame 1>: A person wearing a white shirt and black striped apron is chopping nuts on a wooden cutting board in a kitchen. The kitchen background includes wooden cabinets, a countertop with various items such as a bottle of olive oil, an orange, and some kitchen appliances.\n<Frame 2>: A close-up of the person's hands as they continue to chop the nuts on the wooden cutting board. The person is using a knife to finely chop the nuts, which are spread out on the board. In the background, there is a bottle of olive oil labeled \"La San Marzano\" and a bowl containing green vegetables.\n<Frame 3>: A wider shot of the same person standing in a modern kitchen, continuing to chop nuts on the wooden cutting board. The kitchen features light blue walls, wooden cabinets, and stainless steel appliances. On the counter, there are various ingredients and utensils, including a bowl of salad, a bottle of olive oil, a pepper grinder, and several small bowls containing different ingredients. The person is wearing a striped apron over a white shirt and is focused on cooking at the stove, where a pot is placed."
+    },
+    {
+        "idx": "0148",
+        "action_label": "browning sugar",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/9UgTP7r9h48_st78.0_dur40.0/frame010.png",
+            "data/howtochange/val_frames/9UgTP7r9h48_st78.0_dur40.0/frame020.png",
+            "data/howtochange/val_frames/9UgTP7r9h48_st78.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/9UgTP7r9h48_st78.0_dur40.0/frame035.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting browning sugar, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n",
+        "response0": "<Frame 1>: A close-up of a black frying pan on a stove, containing a white powdery substance, likely flour or sugar, being whisked with a metal whisk. The background shows a granite countertop and part of the stove's control knobs.\n<Frame 2>: The same frying pan, now showing the white powder starting to melt and turn into a yellowish liquid as it is being stirred with the metal whisk. The background remains consistent with the granite countertop and stove's control knobs visible.\n<Frame 3>: The scene continues with the same frying pan on the stove, where the person is still whisking the mixture. The mixture appears to be thickening as it cooks. The person's hand is visible, holding the whisk and stirring the contents of the pan. The background remains consistent with the granite countertop and part of the stove's control knobs visible.\n<Frame 4>: The same frying pan on the stove, but now the mixture has changed color to a golden brown, indicating it has been cooked further. The person continues to whisk the mixture, ensuring it is well combined and evenly cooked."
+    },
+    {
+        "idx": "0151",
+        "action_label": "slicing pineapple",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/MMf9i3PwDzQ_st173.0_dur40.0/frame002.png",
+            "data/howtochange/val_frames/MMf9i3PwDzQ_st173.0_dur40.0/frame012.png",
+            "data/howtochange/val_frames/MMf9i3PwDzQ_st173.0_dur40.0/frame020.png",
+            "data/howtochange/val_frames/MMf9i3PwDzQ_st173.0_dur40.0/frame025.png",
+            "data/howtochange/val_frames/MMf9i3PwDzQ_st173.0_dur40.0/frame027.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting slicing pineapple, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n",
+        "response0": "<Frame 1>: A person wearing blue gloves is using tongs to hold a pineapple on a wooden cutting board, which has a textured surface with visible wood grain patterns. The pineapple appears to be grilled or roasted, as indicated by its golden-brown color and charred marks.\n<Frame 2>: The same person is now holding a whole pineapple upright on the same wooden cutting board. The pineapple is placed on its side, revealing its yellow flesh and green crown. The background shows a kitchen setting with various items, including a white towel and some colorful objects that are not clearly identifiable.\n<Frame 3>: The same person is using a knife to slice the pineapple in half on the wooden cutting board. The pineapple is cut into two equal halves, revealing its juicy interior. The person's hands are visible, holding the knife and the pineapple steady while making the cut.\n<Frame 4>: The same person continues to use the metal tongs to hold the pineapple steady while slicing it into smaller pieces on the same wooden cutting board. The pineapple is now cut into several slices, and the person's hands are still visible, guiding the knife through the fruit.\n<Frame 5>: The same person continues to slice the pineapple, which is now cut into several pieces. The person uses the knife and tongs to separate the slices further. The background remains consistent with the previous frame, showing the same kitchen items."
+    },
+    {
+        "idx": "0152",
+        "action_label": "peeling onion",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/H7Ne3s202lU_st37.0_dur52.0/frame015.png",
+            "data/howtochange/val_frames/H7Ne3s202lU_st37.0_dur52.0/frame016.png",
+            "data/howtochange/val_frames/H7Ne3s202lU_st37.0_dur52.0/frame017.png",
+            "data/howtochange/val_frames/H7Ne3s202lU_st37.0_dur52.0/frame020.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting peeling onion, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n",
+        "response0": "<Frame 1>: A close-up of a hand holding a whole, unpeeled red onion on a flat surface. The onion has a smooth texture and a small stem end. The background is blurred, focusing attention on the onion and the hand.\n<Frame 2>: A close-up of a hand holding a large kitchen knife above the same red onion. The knife blade is sharp and metallic, positioned to cut into the onion. The background remains blurred, keeping the focus on the action of slicing the onion.\n<Frame 3>: The same hand is now using the large knife to slice through the red onion, which has been placed on a cutting board. The knife cuts through the onion, revealing its inner layers.\n<Frame 4>: A close-up of hands peeling off the outer skin of the red onion. The onion is being held between the fingers, and the skin is being removed in strips. The background remains blurred, keeping the focus on the onion and the peeling action."
+    },
+    {
+        "idx": "0156",
+        "action_label": "melting butter",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/B1cUV6i9uJE_st80.0_dur40.0/frame005.png",
+            "data/howtochange/val_frames/B1cUV6i9uJE_st80.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/B1cUV6i9uJE_st80.0_dur40.0/frame023.png",
+            "data/howtochange/val_frames/B1cUV6i9uJE_st80.0_dur40.0/frame031.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting melting butter, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n",
+        "response0": "<Frame 1>: A person wearing a red and black argyle-patterned shirt is seen pouring a white powder, likely flour or sugar, from a small white container into a large blue mixing bowl that already contains some brown ingredients, possibly nuts or chocolate chips. The countertop around the bowl has various kitchen items, including a whisk, a small blue cup, and a white ramekin.\n<Frame 2>: The same person is shown placing a clear measuring cup with a blue handle on a white countertop. Inside the measuring cup, there is a stick of butter. The person's hands are visible, and they appear to be preparing for the next step in the recipe.\n<Frame 3>: The scene remains largely unchanged from the first frame. The person is still standing behind the counter, and the blue measuring cup with the stick of butter inside is in the same position. There are no noticeable changes in the objects or their arrangement between the two frames.\n<Frame 4>: In this frame, the person is holding a clear measuring cup filled with a yellow liquid, which appears to be melted butter. The blue measuring cup with the solid butter is still present on the countertop."
+    },
+    {
+        "idx": "0158",
+        "action_label": "rolling pasta",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/dl4bfh3P9r4_st448.0_dur40.0/frame016.png",
+            "data/howtochange/val_frames/dl4bfh3P9r4_st448.0_dur40.0/frame021.png",
+            "data/howtochange/val_frames/dl4bfh3P9r4_st448.0_dur40.0/frame024.png",
+            "data/howtochange/val_frames/dl4bfh3P9r4_st448.0_dur40.0/frame026.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting rolling pasta, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n",
+        "response0": "<Frame 1>: A person is seen in a kitchen, wearing a black sleeveless top and a dark apron. They are standing at a countertop with various cooking utensils and ingredients around them. The person is holding a red plate with a piece of pasta topped with shredded cheese. In the background, there is a frying pan containing cooked ground meat and a pot with pasta shells.\n<Frame 2>: The same person is now working on the red plate, which has a piece of pasta topped with shredded cheese. They are using their hands to fold the pasta over the filling, preparing it for baking or further cooking. The countertop still has the frying pan with cooked ground meat and a pot with pasta shells, along with other kitchen items such as a fork and a spatula.\n<Frame 3>: The person continues to work on the red plate, now folding the pasta sheet over the filling. The countertop remains the same, with the frying pan of cooked ground meat and the pot of pasta shells still visible. Additionally, a yellow container and a fork are now present on the counter. The person's hands are actively engaged in shaping the pasta, indicating progress in the preparation process.\n<Frame 4>: The person continues to work on the red plate, now rolling the pasta sheet tightly around the filling. The countertop still has the same items, and the person's hands are actively engaged in the process of rolling the pasta."
+    },
+    {
+        "idx": "0160",
+        "action_label": "browning tofu",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/vnXlrGGJdEQ_st77.0_dur78.0/frame002.png",
+            "data/howtochange/val_frames/vnXlrGGJdEQ_st77.0_dur78.0/frame026.png",
+            "data/howtochange/val_frames/vnXlrGGJdEQ_st77.0_dur78.0/frame040.png",
+            "data/howtochange/val_frames/vnXlrGGJdEQ_st77.0_dur78.0/frame041.png",
+            "data/howtochange/val_frames/vnXlrGGJdEQ_st77.0_dur78.0/frame054.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting browning tofu, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n",
+        "response0": "<Frame 1>: The image shows a variety of ingredients laid out on a table, including vegetables, tofu, and condiments. There are several packages of kale, a bottle of vegetable broth, a bottle of olive oil, and other items like corn, onions, and spices.\n<Frame 2>: In this frame, a hand is seen placing tofu cubes into a black frying pan. The pan is on a stove, and the tofu appears to be being cooked or prepared for cooking.\n<Frame 3>: A top-down view of the same frying pan, now filled with the previously added tofu cubes, which are evenly distributed across the surface of the pan. The tofu cubes are white and appear to be in the process of being cooked.\n<Frame 4>: The image is identical to the first frame, showing the same black frying pan filled with cubed tofu. There are no visible changes in the state or position of the tofu between the two frames.\n<Frame 5>: The image displays the same black frying pan filled with cubed tofu, but this time the tofu has a golden-brown color, indicating that it has been cooked and browned."
+    },
+    {
+        "idx": "0170",
+        "action_label": "peeling cucumber",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/6CbGPelZZ8E_st0.0_dur40.0/frame020.png",
+            "data/howtochange/val_frames/6CbGPelZZ8E_st0.0_dur40.0/frame021.png",
+            "data/howtochange/val_frames/6CbGPelZZ8E_st0.0_dur40.0/frame033.png",
+            "data/howtochange/val_frames/6CbGPelZZ8E_st0.0_dur40.0/frame037.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting peeling cucumber, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n",
+        "response0": "<Frame 1>: A woman is holding a cucumber in her hands, preparing to peel it. The text on the screen reads \"1 Large Cucumber = 3 Chopped Cucumber,\" indicating that one large cucumber can be chopped into three pieces.\n<Frame 2>: The same woman is now peeling the cucumber with a knife, following the instruction given in the previous frame. She is wearing a dark blue top and has long hair. The background is plain and light-colored, keeping the focus on the action of peeling the cucumber.\n<Frame 3>: In this frame, the woman is holding a peeled cucumber in her left hand and a knife in her right hand. She appears to be in the process of cutting or slicing the cucumber. The background remains plain and light-colored, consistent with the previous frame.\n<Frame 4>: The person is holding a peeled cucumber in their hands, showing it to the camera. They are still wearing the dark blue shirt and are seated at the same table with the brass plate."
+    },
+    {
+        "idx": "0171",
+        "action_label": "frying shallot",
+        "n_frames": 3,
+        "image_files": [
+            "data/howtochange/val_frames/rRTvmcwXciE_st60.0_dur40.0/frame023.png",
+            "data/howtochange/val_frames/rRTvmcwXciE_st60.0_dur40.0/frame036.png",
+            "data/howtochange/val_frames/rRTvmcwXciE_st60.0_dur40.0/frame038.png"
+        ],
+        "query0": "These are 3 frames extracted from a video sequence depicting frying shallot, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 3>: Your description\n",
+        "response0": "<Frame 1>: The video begins with a close-up of a white frying pan on a stove, where several pieces of food, likely shallots, are being saut\u00e9ed in oil. A wooden spatula is seen stirring the contents of the pan, indicating that the cooking process is underway.\n<Frame 2>: The scene continues to focus on the same frying pan, with the wooden spatula now actively stirring the remaining pieces of food in the pan. The food appears to be browning slightly, suggesting it is being cooked further. The background remains out of focus, keeping the attention on the cooking process.\n<Frame 3>: The same wooden spatula is used to scoop up some of the browned food from the frying pan and transfer it onto a white plate with a red rim."
+    },
+    {
+        "idx": "0175",
+        "action_label": "chopping tomato",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/rLrNbLo7Sjw_st164.0_dur40.0/frame007.png",
+            "data/howtochange/val_frames/rLrNbLo7Sjw_st164.0_dur40.0/frame008.png",
+            "data/howtochange/val_frames/rLrNbLo7Sjw_st164.0_dur40.0/frame018.png",
+            "data/howtochange/val_frames/rLrNbLo7Sjw_st164.0_dur40.0/frame027.png",
+            "data/howtochange/val_frames/rLrNbLo7Sjw_st164.0_dur40.0/frame029.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting chopping tomato, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n",
+        "response0": "<Frame 1>: The image shows a black frying pan on a stove with three tomatoes placed inside. The pan appears to be clean and ready for cooking.\n<Frame 2>: The image is identical to the first frame, showing the same black frying pan on a stove with three tomatoes placed inside. There are no visible changes or actions taking place between the two frames.\n<Frame 3>: In this frame, a person wearing a pink shirt is seen peeling a tomato over a purple cutting board. The tomato is being held in one hand, and the other hand is peeling off the skin. There is a small glass plate with more peeled tomatoes on it, indicating that the person has been peeling multiple tomatoes. The background includes a stainless steel countertop.\n<Frame 4>: The same person is chopping the peeled tomatoes on the purple cutting board using a knife. A clear plastic lid is placed next to the cutting board on the stainless steel countertop.\n<Frame 5>: A close-up shot of a glass bowl containing diced tomatoes in a red sauce, placed on a light-colored surface. The text 'La Cocina de Norma' is visible in the top right corner of the frame."
+    },
+    {
+        "idx": "0181",
+        "action_label": "slicing celery",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/bJynHyrB_sE_st320.0_dur40.0/frame019.png",
+            "data/howtochange/val_frames/bJynHyrB_sE_st320.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/bJynHyrB_sE_st320.0_dur40.0/frame035.png",
+            "data/howtochange/val_frames/bJynHyrB_sE_st320.0_dur40.0/frame036.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting slicing celery, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n",
+        "response0": "<Frame 1>: A person wearing a black and white striped shirt is seen chopping green celery on a wooden cutting board. The celery is being sliced into small pieces, with several pieces already cut and scattered around the cutting board.\n<Frame 2>: The same person continues to chop the celery, making precise cuts with a large kitchen knife. The focus remains on the hands and the celery, emphasizing the action of slicing.\n<Frame 3>: The same person is now chopping the previously sliced celery into smaller pieces on the same wooden cutting board. The celery is being finely diced, and the person's hands are visible holding the knife and guiding it through the celery.\n<Frame 4>: The scene continues with the same close-up shot of the person's hands as they continue to chop the green vegetables into even smaller pieces. The knife moves swiftly, and the chopped pieces scatter slightly on the cutting board. The background remains out of focus, keeping the attention on the precise chopping action."
+    },
+    {
+        "idx": "0184",
+        "action_label": "frying okra",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/daNCK7U2THI_st769.0_dur52.0/frame023.png",
+            "data/howtochange/val_frames/daNCK7U2THI_st769.0_dur52.0/frame031.png",
+            "data/howtochange/val_frames/daNCK7U2THI_st769.0_dur52.0/frame033.png",
+            "data/howtochange/val_frames/daNCK7U2THI_st769.0_dur52.0/frame045.png",
+            "data/howtochange/val_frames/daNCK7U2THI_st769.0_dur52.0/frame049.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting frying okra, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n",
+        "response0": "<Frame 1>: A close-up view of a white stovetop with two burners, one of which has a large metal pot covered with a lid. To the right, there is an empty frying pan. A hand holding a glass bowl filled with chopped green vegetables appears and pours the contents into the frying pan.\n<Frame 2>: The same frying pan now contains the chopped green vegetables that were poured in from the previous frame. The vegetables are spread out in the pan, ready to be cooked.\n<Frame 3>: The image is identical to the first frame, showing the same frying pan on the stove with green okra pieces inside. There are no visible changes in the state or position of the okra or the pan between the two frames.\n<Frame 4>: In this frame, a wooden spoon is being used to stir the okra in the frying pan. The okra appears to be cooking, and the spoon is actively mixing it, likely to ensure even cooking and prevent burning.\n<Frame 5>: The scene continues with the same frying pan on the stove, where the okra is still being stirred with the wooden spatula. The large metal pot remains on the left burner, and the stove's black coil burner is visible in the background. The focus remains on the cooking process, emphasizing the stirring action and the texture of the okra as it cooks."
+    },
+    {
+        "idx": "0189",
+        "action_label": "browning crust",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/9E4-ofkolJU_st273.0_dur40.0/frame012.png",
+            "data/howtochange/val_frames/9E4-ofkolJU_st273.0_dur40.0/frame018.png",
+            "data/howtochange/val_frames/9E4-ofkolJU_st273.0_dur40.0/frame029.png",
+            "data/howtochange/val_frames/9E4-ofkolJU_st273.0_dur40.0/frame033.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting browning crust, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n",
+        "response0": "<Frame 1>: The image shows a round dish covered with aluminum foil, placed on a wooden surface. The dish appears to contain a mixture of ingredients, possibly a baked or cooked food item, but the specific contents are not visible due to the foil covering.\n<Frame 2>: The image displays a round, baked dish with a golden-brown crust, placed on a wooden surface. The dish contains a mixture of green and brown ingredients, likely vegetables and possibly some meat or cheese, indicating it is a type of quiche or similar dish. The crust is evenly browned, suggesting it has been baked to a crisp texture.\n<Frame 3>: The image is identical to the first frame, showing the same round, baked dish with a golden-brown crust and a mixture of green and brown ingredients on top. There are no noticeable changes in the appearance or position of the dish between the two frames.\n<Frame 4>: In this frame, a hand is seen reaching towards the pie, possibly about to interact with it, such as serving or adjusting it. The pie remains on the wooden cutting board, and the background is slightly blurred, focusing attention on the pie and the hand."
+    },
+    {
+        "idx": "0191",
+        "action_label": "melting margarine",
+        "n_frames": 3,
+        "image_files": [
+            "data/howtochange/val_frames/ITMTWdbQ7tY_st113.0_dur40.0/frame003.png",
+            "data/howtochange/val_frames/ITMTWdbQ7tY_st113.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/ITMTWdbQ7tY_st113.0_dur40.0/frame039.png"
+        ],
+        "query0": "These are 3 frames extracted from a video sequence depicting melting margarine, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 3>: Your description\n",
+        "response0": "<Frame 1>: The image shows a bowl containing a mixture of flour and butter, with two chunks of butter placed on top. A spoon is also visible in the bowl, suggesting that the ingredients are being prepared for a recipe.\n<Frame 2>: In this frame, a hand is holding a bowl filled with a creamy mixture, which appears to be the result of blending or mixing the ingredients shown in the previous frame. The bowl is placed on a granite countertop, and there is a pot on the stove in the background.\n<Frame 3>: The same hand is seen stirring the now more homogeneous and fluffy mixture in the white bowl using a metal whisk. The background remains consistent with the granite countertop and the stainless steel pot on the stove."
+    },
+    {
+        "idx": "0194",
+        "action_label": "chopping celery",
+        "n_frames": 6,
+        "image_files": [
+            "data/howtochange/val_frames/I379Wn1efow_st117.0_dur40.0/frame020.png",
+            "data/howtochange/val_frames/I379Wn1efow_st117.0_dur40.0/frame024.png",
+            "data/howtochange/val_frames/I379Wn1efow_st117.0_dur40.0/frame027.png",
+            "data/howtochange/val_frames/I379Wn1efow_st117.0_dur40.0/frame033.png",
+            "data/howtochange/val_frames/I379Wn1efow_st117.0_dur40.0/frame034.png",
+            "data/howtochange/val_frames/I379Wn1efow_st117.0_dur40.0/frame039.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting chopping celery, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n",
+        "response0": "<Frame 1>: A close-up of a hand with blue and white nail polish holding a green celery stalk on a white cutting board. The person is wearing a yellow shirt with black text in the background.\n<Frame 2>: The same hand, now with red, white, and blue nail polish, is seen placing the celery stalk on the cutting board while a knife is positioned above it, ready to cut.\n<Frame 3>: The same hand is now using a large kitchen knife to chop the celery into small, diced pieces on the same white cutting board. The focus is on the action of chopping, showing the knife moving up and down as it cuts through the celery.\n<Frame 4>: The same hand continues to chop the celery into smaller pieces, with the chopped pieces accumulating on the cutting board. The focus remains on the precise chopping action, highlighting the texture and color of the celery and the sharpness of the knife.\n<Frame 5>: The same hand continues to chop the celery, with the knife moving up and down in a rhythmic motion. The chopped celery pieces are neatly arranged on the cutting board, showcasing the precision and skill involved in the task.\n<Frame 6>: A view of a white bowl containing a mixture of chopped green vegetables and other ingredients, possibly for a recipe. The focus is on the contents of the bowl, highlighting the preparation process."
+    },
+    {
+        "idx": "0195",
+        "action_label": "slicing mango",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/BkzDuMGrcGY_st34.0_dur40.0/frame004.png",
+            "data/howtochange/val_frames/BkzDuMGrcGY_st34.0_dur40.0/frame015.png",
+            "data/howtochange/val_frames/BkzDuMGrcGY_st34.0_dur40.0/frame021.png",
+            "data/howtochange/val_frames/BkzDuMGrcGY_st34.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/BkzDuMGrcGY_st34.0_dur40.0/frame037.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting slicing mango, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n",
+        "response0": "<Frame 1>: A woman with blonde hair is standing in a kitchen, holding an apple in her right hand and gesturing with her left hand. The background shows a counter with various fruits, including bananas and apples.\n<Frame 2>: The same woman is now slicing a mango on a black cutting board. She is wearing a pink sleeveless top and has a knife in her right hand. There are several other mangoes and some green vegetables on the counter next to her.\n<Frame 3>: In this frame, the woman is seen holding a piece of mango in her left hand and a knife in her right hand. She appears to be in the process of cutting or preparing the mango for consumption. The background remains consistent with the previous frame, featuring a variety of fruits and vegetables.\n<Frame 4>: The person continues to slice the mango, now using a white cutting board. They are still wearing the pink dress and are surrounded by the same ingredients as before. The focus remains on the action of slicing the mango, highlighting the precision and care taken in the preparation process.\n<Frame 5>: The same person is holding a white tray with two halves of a sliced mango on it. The background shows a kitchen setting with various fruits and a kettle visible."
+    },
+    {
+        "idx": "0197",
+        "action_label": "chopping pepper",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/AK_re7pj-w0_st243.0_dur40.0/frame004.png",
+            "data/howtochange/val_frames/AK_re7pj-w0_st243.0_dur40.0/frame020.png",
+            "data/howtochange/val_frames/AK_re7pj-w0_st243.0_dur40.0/frame021.png",
+            "data/howtochange/val_frames/AK_re7pj-w0_st243.0_dur40.0/frame026.png",
+            "data/howtochange/val_frames/AK_re7pj-w0_st243.0_dur40.0/frame031.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting chopping pepper, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n",
+        "response0": "<Frame 1>: A person is chopping a green bell pepper on a wooden cutting board. The person is wearing a dark blue shirt with white illustrations of kitchen utensils and grapes. The focus is on the hands and the knife, showing the initial stages of slicing the pepper into smaller pieces.\n<Frame 2>: The same person continues to chop the green bell pepper on the wooden cutting board. The person is now wearing a ring on their left hand. The focus remains on the hands and the knife, capturing the progression of slicing the pepper into smaller pieces.\n<Frame 3>: The scene continues with the same close-up shot of the person's hands as they continue to slice the green bell pepper on the wooden cutting board. The person maintains their focus on precise cuts, and the pile of sliced peppers grows slightly larger. The background remains out of focus, ensuring that the viewer's attention stays on the meticulous preparation process.\n<Frame 4>: The same person continues to chop the green bell pepper on the wooden cutting board. The person is still wearing the dark blue shirt with white drawings and a ring on their left hand. The focus remains on the hands and the knife, showing the progression of the chopping action. The green bell pepper is being cut into smaller pieces, and there are already several slices and seeds scattered around the cutting board.\n<Frame 5>: The same person is seen arranging the chopped green bell pepper pieces on the cutting board, preparing them for further use."
+    },
+    {
+        "idx": "0201",
+        "action_label": "roasting chickpea",
+        "n_frames": 3,
+        "image_files": [
+            "data/howtochange/val_frames/twEm-LagcPc_st63.0_dur40.0/frame014.png",
+            "data/howtochange/val_frames/twEm-LagcPc_st63.0_dur40.0/frame033.png",
+            "data/howtochange/val_frames/twEm-LagcPc_st63.0_dur40.0/frame038.png"
+        ],
+        "query0": "These are 3 frames extracted from a video sequence depicting roasting chickpea, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 3>: Your description\n",
+        "response0": "<Frame 1>: In this frame, a man and a woman are standing in front of a grill. The man is wearing a white chef's coat and a black apron, while the woman is dressed in a colorful striped dress. They are both engaged in a cooking demonstration, with the man holding a tray of food and the woman standing beside him. The background features a wooden fence and some decorative lanterns.\n<Frame 2>: This frame shows a close-up of a tray filled with roasted chickpeas and cauliflower. The tray is placed on a table covered with a green cloth. There are also two bottles of hot sauce and a bowl of red sauce on the table. The background includes a wicker basket and a glass of water.\n<Frame 3>: In this frame, a person is seen holding a tortilla and using a spoon to scoop a red sauce from a bowl. The person's hands are visible, and they are wearing a black shirt. There is also a bottle of yellow sauce and a small bowl of white sauce on the table."
+    },
+    {
+        "idx": "0203",
+        "action_label": "whipping potato",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/am0IRnrHAXc_st143.0_dur40.0/frame014.png",
+            "data/howtochange/val_frames/am0IRnrHAXc_st143.0_dur40.0/frame035.png",
+            "data/howtochange/val_frames/am0IRnrHAXc_st143.0_dur40.0/frame036.png",
+            "data/howtochange/val_frames/am0IRnrHAXc_st143.0_dur40.0/frame037.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting whipping potato, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n",
+        "response0": "<Frame 1>: A close-up shot of a pot filled with boiled potatoes. A hand holding a white bowl pours a liquid, likely milk or cream, into the pot of mashed potatoes. The mashed potatoes are light yellow and appear to be well-mixed.\n<Frame 2>: The same pot of mashed potatoes, now without any additional ingredients being added. The mashed potatoes have a smooth texture with some small chunks visible, indicating they have been recently mashed.\n<Frame 3>: The image is identical to the first frame, showing the same pot filled with mashed potatoes. There are no noticeable changes in the state or appearance of the potatoes between the two frames.\n<Frame 4>: In this frame, a hand is seen stirring the mashed potatoes with a whisk. The potatoes are being mixed, likely to incorporate air and ensure an even consistency."
+    },
+    {
+        "idx": "0211",
+        "action_label": "slicing chicken",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/nM2cBMLejdU_st446.0_dur40.0/frame009.png",
+            "data/howtochange/val_frames/nM2cBMLejdU_st446.0_dur40.0/frame023.png",
+            "data/howtochange/val_frames/nM2cBMLejdU_st446.0_dur40.0/frame030.png",
+            "data/howtochange/val_frames/nM2cBMLejdU_st446.0_dur40.0/frame031.png",
+            "data/howtochange/val_frames/nM2cBMLejdU_st446.0_dur40.0/frame038.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting slicing chicken, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n",
+        "response0": "<Frame 1>: A person is stirring a pot of food on a stovetop in a kitchen with green tiled walls and various kitchen appliances. The person is using a wooden spoon to mix the contents of the pot, which appears to be a creamy mixture.\n<Frame 2>: The same person is slicing cooked chicken breasts on a wooden cutting board. There are three pieces of chicken being cut into smaller portions. To the right of the cutting board, there is a white plate with a blue rim and some kitchen utensils.\n<Frame 3>: The same person continues to slice the chicken breast into smaller pieces on the wooden cutting board. The chicken breast is now cut into several pieces, and the person's hand is seen adjusting one of the pieces. The background remains consistent with the previous frame, showing the same kitchen setting with a stove and countertop.\n<Frame 4>: The same person continues to slice the chicken breast into smaller pieces on the wooden cutting board. The chicken breast is now cut into several pieces, and the person's hand is seen adjusting one of the pieces. The background remains consistent with the previous frame, showing the same kitchen setting with a stove and countertop.\n<Frame 5>: The same person is now slicing one of the chicken breasts on the wooden cutting board. They are using a knife to cut through the meat, which has been partially sliced already. The other two pieces of chicken remain on the cutting board, and there is a plate with some sliced chicken pieces next to it."
+    },
+    {
+        "idx": "0215",
+        "action_label": "slicing bread",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/Wd5Y6VoDzEo_st43.0_dur40.0/frame006.png",
+            "data/howtochange/val_frames/Wd5Y6VoDzEo_st43.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/Wd5Y6VoDzEo_st43.0_dur40.0/frame034.png",
+            "data/howtochange/val_frames/Wd5Y6VoDzEo_st43.0_dur40.0/frame036.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting slicing bread, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n",
+        "response0": "<Frame 1>: A close-up of a hand holding a loaf of bread on a speckled countertop, slicing it with a knife. The bread has a golden-brown crust and visible air pockets on the surface.\n<Frame 2>: A close-up of the same loaf of bread, now showing several cuts made into it, revealing its soft, porous interior. The hand is seen pressing down on the bread, possibly to check its texture or stability.\n<Frame 3>: The scene transitions to a pot containing a mixture of melted butter and flour on the same speckled countertop. A large knife is placed next to the pot, indicating that it may have been used in the preparation process. The focus is on the pot and its contents, suggesting that the next step in the recipe involves this mixture.\n<Frame 4>: The image is identical to the first frame, showing the same pot with melted butter and flour, the large knife, and the loaf of bread wrapped in plastic. There are no noticeable changes in the objects or their positions between the two frames."
+    },
+    {
+        "idx": "0219",
+        "action_label": "blending pepper",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/fNbl1gvyCEI_st331.0_dur77.0/frame019.png",
+            "data/howtochange/val_frames/fNbl1gvyCEI_st331.0_dur77.0/frame020.png",
+            "data/howtochange/val_frames/fNbl1gvyCEI_st331.0_dur77.0/frame044.png",
+            "data/howtochange/val_frames/fNbl1gvyCEI_st331.0_dur77.0/frame053.png",
+            "data/howtochange/val_frames/fNbl1gvyCEI_st331.0_dur77.0/frame070.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting blending pepper, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n",
+        "response0": "<Frame 1>: A close-up of a kitchen counter where a person is holding a glass bowl filled with colorful bell peppers, including red, yellow, and orange ones. In the background, there is a black blender and some kitchen cabinets. The person is pointing at the bell peppers in the bowl.\n<Frame 2>: The same scene as the previous frame, but the person is now holding the bowl of bell peppers closer to the camera, providing a clearer view of the contents. The black blender and kitchen cabinets remain visible in the background.\n<Frame 3>: The same person is seen transferring the roasted bell peppers from the glass bowl into a blender placed on a wooden cutting board. The kitchen setting remains consistent, with the blender, jar, and window still visible in the background.\n<Frame 4>: The same person is seen arranging the chopped vegetables on a wooden cutting board next to the blender. There are two bowls of vegetables, one with red bell peppers and the other with yellow bell peppers. A large glass jar is also present on the counter. The background shows a tiled wall and a sink.\n<Frame 5>: The same person is now operating the blender, which contains a mixture of red and orange bell peppers. They are pressing down on the lid of the blender with their hand. On the counter, there are two glass bowls, one containing more chopped red bell peppers and the other empty. Additionally, there is a large glass jar and a metal container with eggs in the background."
+    },
+    {
+        "idx": "0223",
+        "action_label": "shredding beef",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/b_UQMLPNgSU_st263.0_dur40.0/frame007.png",
+            "data/howtochange/val_frames/b_UQMLPNgSU_st263.0_dur40.0/frame008.png",
+            "data/howtochange/val_frames/b_UQMLPNgSU_st263.0_dur40.0/frame014.png",
+            "data/howtochange/val_frames/b_UQMLPNgSU_st263.0_dur40.0/frame029.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting shredding beef, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n",
+        "response0": "<Frame 1>: The image shows a metal mesh basket containing several pieces of cooked meat. The meat appears to be beef, with a browned exterior indicating it has been fried or grilled. The basket is placed inside a larger metal container, possibly a deep fryer or oven.\n<Frame 2>: The image is identical to the first frame, showing the same metal mesh basket with several pieces of cooked meat inside. There are no visible changes in the state or position of the meat between the two frames.\n<Frame 3>: In this frame, a hand is holding a white plate with several pieces of cooked meat on it. The meat appears to be the same type as in the first frame, but it is now served on a plate, suggesting that it has been removed from the fryer and is ready to be eaten.\n<Frame 4>: A close-up of hands holding a piece of shredded beef over a bowl filled with more shredded beef. The hands are tearing apart the meat into smaller pieces, showcasing its texture and consistency."
+    },
+    {
+        "idx": "0233",
+        "action_label": "grilling cheese",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/XPiV2dLlN4E_st19.0_dur40.0/frame020.png",
+            "data/howtochange/val_frames/XPiV2dLlN4E_st19.0_dur40.0/frame023.png",
+            "data/howtochange/val_frames/XPiV2dLlN4E_st19.0_dur40.0/frame035.png",
+            "data/howtochange/val_frames/XPiV2dLlN4E_st19.0_dur40.0/frame036.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting grilling cheese, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n",
+        "response0": "<Frame 1>: A close-up view of a rectangular baking tray lined with aluminum foil, containing a layer of shredded cheese and a mixture of ground meat. A hand is seen spreading the cheese evenly over the meat mixture.\n<Frame 2>: The same baking tray, now with additional toppings added on top of the shredded cheese. Small pieces of sausage are placed on the cheese-covered surface, indicating the preparation of a dish that includes both meat and cheese as key ingredients.\n<Frame 3>: The same baking tray now fully covered with the added toppings, including the shredded cheese, ground meat, and small pieces of sausage. The tray is placed on a wooden surface, and the background shows a kitchen setting with various utensils and appliances visible.\n<Frame 4>: The image is identical to the first frame, showing the same rectangular baking tray filled with a pizza-like dish. The dish consists of a layer of shredded cheese, topped with numerous small, round, browned objects that appear to be sausages or similar meat products, and diced white onions. The tray is still lined with aluminum foil, and the dish looks ready to be baked or cooked."
+    },
+    {
+        "idx": "0234",
+        "action_label": "mashing butter",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/QcYX30pP-Pc_st17.0_dur40.0/frame012.png",
+            "data/howtochange/val_frames/QcYX30pP-Pc_st17.0_dur40.0/frame014.png",
+            "data/howtochange/val_frames/QcYX30pP-Pc_st17.0_dur40.0/frame020.png",
+            "data/howtochange/val_frames/QcYX30pP-Pc_st17.0_dur40.0/frame026.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting mashing butter, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n",
+        "response0": "<Frame 1>: A close-up of an empty, clear glass bowl placed on a wooden surface. Inside the bowl, there is a small piece of butter.\n<Frame 2>: The same glass bowl now contains a mixture of white powder, likely flour or sugar, and the previously added butter.\n<Frame 3>: In this frame, a hand is seen holding a spoon, which is being used to mix the contents of the glass bowl. The bowl still contains the white powdery substance and the yellowish substance, and the hand appears to be stirring or blending the ingredients together.\n<Frame 4>: The same glass mixing bowl, now showing the person using a spoon to mix the ingredients together. The mixture appears to be thickening as it is being stirred."
+    },
+    {
+        "idx": "0237",
+        "action_label": "frying fish",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/2JmCBgagOBo_st268.0_dur40.0/frame002.png",
+            "data/howtochange/val_frames/2JmCBgagOBo_st268.0_dur40.0/frame003.png",
+            "data/howtochange/val_frames/2JmCBgagOBo_st268.0_dur40.0/frame027.png",
+            "data/howtochange/val_frames/2JmCBgagOBo_st268.0_dur40.0/frame035.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting frying fish, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n",
+        "response0": "<Frame 1>: A person is preparing fish for cooking by dipping it into two separate bowls, one containing flour and the other containing beaten eggs. The person's hands are shown pressing the fish into the flour to coat it evenly.\n<Frame 2>: The same person continues to prepare the fish, now dipping it into the bowl of beaten eggs. The background shows a baking tray with several pieces of fish already coated in flour and placed on a parchment-lined baking sheet.\n<Frame 3>: A close-up of a stainless steel pan on a stove, filled with hot oil that is bubbling vigorously. The pan is placed on a gas burner, and there is a decorative tile with a red and yellow pattern next to the stove.\n<Frame 4>: The scene develops as two pieces of food, possibly fish fillets, are added to the hot oil in the pan. The oil bubbles more intensely around the food items, indicating they are being fried."
+    },
+    {
+        "idx": "0246",
+        "action_label": "melting jaggery",
+        "n_frames": 6,
+        "image_files": [
+            "data/howtochange/val_frames/l2pDvev4Scg_st397.0_dur52.0/frame003.png",
+            "data/howtochange/val_frames/l2pDvev4Scg_st397.0_dur52.0/frame008.png",
+            "data/howtochange/val_frames/l2pDvev4Scg_st397.0_dur52.0/frame011.png",
+            "data/howtochange/val_frames/l2pDvev4Scg_st397.0_dur52.0/frame028.png",
+            "data/howtochange/val_frames/l2pDvev4Scg_st397.0_dur52.0/frame033.png",
+            "data/howtochange/val_frames/l2pDvev4Scg_st397.0_dur52.0/frame045.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting melting jaggery, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n",
+        "response0": "<Frame 1>: A hand is holding a white bowl filled with yellow jaggery, which is being poured into a large metal pan. The text 'Jaggery - 1/2 cup' appears on the screen, indicating the quantity of jaggery being used.\n<Frame 2>: The jaggery has been added to the metal pan, forming a small pile in the center. The text 'Jaggery - 1/2 cup' remains on the screen, emphasizing the amount of jaggery used.\n<Frame 3>: The image is identical to the first frame, showing the same metal pan with a small amount of yellowish substance inside. There are no visible changes or actions taking place between the two frames.\n<Frame 4>: In this frame, a spoon is being used to stir the jaggery in the pan. The jaggery appears to be melting and is being mixed with the spoon. The pan is still on the stove, and the jaggery is being cooked.\n<Frame 5>: The same pan, but now the jaggery has melted and is being stirred with a black spatula. Text appears at the bottom of the frame, reading \"Keep in low flame when jaggery starts to melt.\"\n<Frame 6>: A close-up of a hand holding a piece of food, possibly a vegetable or fruit, over the same metal pan. The food item is being added to the pan, where it will likely be cooked or fried."
+    },
+    {
+        "idx": "0250",
+        "action_label": "blending banana",
+        "n_frames": 6,
+        "image_files": [
+            "data/howtochange/val_frames/9dWOEifkdfI_st1035.0_dur40.0/frame003.png",
+            "data/howtochange/val_frames/9dWOEifkdfI_st1035.0_dur40.0/frame004.png",
+            "data/howtochange/val_frames/9dWOEifkdfI_st1035.0_dur40.0/frame009.png",
+            "data/howtochange/val_frames/9dWOEifkdfI_st1035.0_dur40.0/frame014.png",
+            "data/howtochange/val_frames/9dWOEifkdfI_st1035.0_dur40.0/frame033.png",
+            "data/howtochange/val_frames/9dWOEifkdfI_st1035.0_dur40.0/frame036.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting blending banana, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n",
+        "response0": "<Frame 1>: A man is peeling a banana with both hands, holding it in front of him.\n<Frame 2>: The man is peeling a banana with one hand, holding the other end of the banana in his other hand.\n<Frame 3>: The man is peeling a banana with both hands, holding the banana in front of him.\n<Frame 4>: The man is peeling a banana with both hands, holding the banana in front of him.\n<Frame 5>: The man is placing the lid on a blender, which is filled with green liquid.\n<Frame 6>: The man is pressing a button on the blender, which is filled with green liquid."
+    },
+    {
+        "idx": "0276",
+        "action_label": "sauteing shrimp",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/iluvAxMbc2E_st100.0_dur40.0/frame015.png",
+            "data/howtochange/val_frames/iluvAxMbc2E_st100.0_dur40.0/frame021.png",
+            "data/howtochange/val_frames/iluvAxMbc2E_st100.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/iluvAxMbc2E_st100.0_dur40.0/frame023.png",
+            "data/howtochange/val_frames/iluvAxMbc2E_st100.0_dur40.0/frame027.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting sauteing shrimp, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n",
+        "response0": "<Frame 1>: The image shows a pan filled with shrimp that are being cooked. The shrimp are scattered across the pan, some of them are partially cooked with a reddish hue, while others are still raw. The pan appears to be hot, as indicated by the sizzling sound and the slight smoke rising from the shrimp.\n<Frame 2>: The image is similar to the first one, showing a pan filled with shrimp that are being cooked. The shrimp are scattered across the pan, some of them are partially cooked with a reddish hue, while others are still raw. The pan appears to be hot, as indicated by the sizzling sound and the slight smoke rising from the shrimp.\n<Frame 3>: The image is identical to the first frame, showing the same pan filled with raw shrimp being cooked. The shrimp remain in the same positions as in the first frame, and there are no noticeable changes in their appearance or the state of the oil.\n<Frame 4>: The image displays a close-up view of the same pan filled with shrimp. The shrimp appear to be more cooked compared to the previous frame, with a darker, more caramelized coloration on their surfaces. The oil in the pan has reduced, and the shrimp are more spread out, indicating they have been cooking for a longer period.\n<Frame 5>: The image displays a white plate filled with cooked shrimp. The shrimp are arranged neatly on the plate, and they have a glossy, reddish-brown coating, suggesting they have been seasoned or marinated before cooking. The plate is placed on a wooden surface, which provides a natural and rustic background for the dish."
+    },
+    {
+        "idx": "0281",
+        "action_label": "frying meat",
+        "n_frames": 6,
+        "image_files": [
+            "data/howtochange/val_frames/WRkWC391dEI_st107.0_dur40.0/frame012.png",
+            "data/howtochange/val_frames/WRkWC391dEI_st107.0_dur40.0/frame016.png",
+            "data/howtochange/val_frames/WRkWC391dEI_st107.0_dur40.0/frame020.png",
+            "data/howtochange/val_frames/WRkWC391dEI_st107.0_dur40.0/frame021.png",
+            "data/howtochange/val_frames/WRkWC391dEI_st107.0_dur40.0/frame023.png",
+            "data/howtochange/val_frames/WRkWC391dEI_st107.0_dur40.0/frame026.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting frying meat, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n",
+        "response0": "<Frame 1>: A close-up of a black frying pan on an electric stove, where raw red meat is being stirred with a white spatula. The background shows a window with green plants outside, and the wall is painted white. The hand holding the spatula is visible, indicating that someone is cooking.\n<Frame 2>: The same frying pan, now showing the meat in a more cooked state, with steam rising from it. The hand continues to stir the meat with the white spatula. The background remains consistent with the previous frame, featuring the window with green plants and the white-painted wall.\n<Frame 3>: This frame shows a close-up of a frying pan on a stove. The pan contains ground beef and onions that are being cooked. The beef appears to be browning, and the onions are translucent, indicating they are being saut\u00e9ed. The pan has a handle on the left side, and the stove is visible beneath it.\n<Frame 4>: The image is identical to the first frame, showing the same frying pan with ground beef and onions being cooked. There are no noticeable changes in the state or position of the ingredients between the two frames.\n<Frame 5>: The scene continues to focus on the frying pan, showing the same mixture of ground meat and onions as before. The meat appears to be more browned and cooked compared to the previous frame, indicating that the cooking process is ongoing. Steam rises from the pan, suggesting that the heat is still high and the food is being actively cooked. The background remains slightly blurred, keeping the attention on the cooking process.\n<Frame 6>: In this frame, a spoon is being held over the frying pan, adding a reddish spice to the mixture of ground meat and onions. The spice is being sprinkled onto the ingredients, likely to enhance the flavor of the dish."
+    },
+    {
+        "idx": "0286",
+        "action_label": "frying garlic",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/bAsZDDREpD0_st87.0_dur40.0/frame021.png",
+            "data/howtochange/val_frames/bAsZDDREpD0_st87.0_dur40.0/frame024.png",
+            "data/howtochange/val_frames/bAsZDDREpD0_st87.0_dur40.0/frame028.png",
+            "data/howtochange/val_frames/bAsZDDREpD0_st87.0_dur40.0/frame029.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting frying garlic, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n",
+        "response0": "<Frame 1>: The image shows a close-up of a frying pan with a black spatula. The pan contains a small amount of oil, and there are a few pieces of food, possibly garlic, floating in the oil. The spatula is positioned in the pan, suggesting that it is being used to stir or cook the food.\n<Frame 2>: In this frame, the black spatula is now submerged in the oil, indicating that it has been used to stir or move the food in the pan. The oil appears to be hot, as there are visible bubbles and a slight sheen on the surface. The food, likely garlic, is partially submerged in the oil, and the spatula is being used to manipulate it.\n<Frame 3>: The same frying pan, but now without the black object. A metal spoon is seen stirring the contents of the pan, which include some browned bits and oil. The focus is on the action of stirring and the texture of the food being cooked.\n<Frame 4>: The scene continues with the same frying pan and oil. The metal spoon is still present, but now it is lifting some of the browned bits from the oil, revealing their crispy texture. The oil remains bubbling gently around the edges of the pan, indicating that the cooking process is ongoing."
+    },
+    {
+        "idx": "0307",
+        "action_label": "slicing ham",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/nktG1mVEYNk_st104.0_dur40.0/frame018.png",
+            "data/howtochange/val_frames/nktG1mVEYNk_st104.0_dur40.0/frame019.png",
+            "data/howtochange/val_frames/nktG1mVEYNk_st104.0_dur40.0/frame021.png",
+            "data/howtochange/val_frames/nktG1mVEYNk_st104.0_dur40.0/frame023.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting slicing ham, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n",
+        "response0": "<Frame 1>: A close-up view of a glass baking dish containing shredded chicken. A pair of hands is seen placing slices of pink deli meat on top of the chicken. The background is a green surface, and the focus is on the action of adding the meat to the dish.\n<Frame 2>: The same glass baking dish with shredded chicken and pink deli meat. The hands continue to place more slices of pink deli meat on top of the chicken, ensuring an even distribution. The background remains a green surface, and the focus stays on the action of adding the meat to the dish.\n<Frame 3>: The same person's hand is seen smoothing out the shredded chicken and ham mixture in the glass baking dish, ensuring it is evenly distributed.\n<Frame 4>: The same glass baking dish now contains a layer of pink deli meat placed over the shredded chicken. Two hands are seen pressing down on the meat, ensuring it is evenly distributed across the dish."
+    },
+    {
+        "idx": "0314",
+        "action_label": "grilling shrimp",
+        "n_frames": 6,
+        "image_files": [
+            "data/howtochange/val_frames/m0qnyCYAXdE_st345.0_dur40.0/frame023.png",
+            "data/howtochange/val_frames/m0qnyCYAXdE_st345.0_dur40.0/frame027.png",
+            "data/howtochange/val_frames/m0qnyCYAXdE_st345.0_dur40.0/frame029.png",
+            "data/howtochange/val_frames/m0qnyCYAXdE_st345.0_dur40.0/frame035.png",
+            "data/howtochange/val_frames/m0qnyCYAXdE_st345.0_dur40.0/frame039.png",
+            "data/howtochange/val_frames/m0qnyCYAXdE_st345.0_dur40.0/frame040.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting grilling shrimp, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n",
+        "response0": "<Frame 1>: A person is holding a white bowl filled with marinated shrimp over a black grill. The person uses tongs to stir the shrimp in the bowl, which are coated in a reddish-brown sauce. The background shows a grassy area, indicating that the scene is taking place outdoors.\n<Frame 2>: The person pours the marinated shrimp from the white bowl onto the hot grill, where some shrimp are already cooking. Smoke rises from the grill, indicating that it is hot and ready for cooking. The focus is on the action of transferring the shrimp from the bowl to the grill, showing the progression of the grilling process.\n<Frame 3>: The same scene continues with the person still pouring the marinated shrimp from the white bowl onto the grill, which now has more shrimp cooking on it. The grill remains black with visible charcoal underneath, and steam is rising from it, indicating that the grill is hot and the shrimp are being cooked.\n<Frame 4>: The same scene continues with the person still pouring the marinated shrimp from the white bowl onto the grill, which now has several pieces of shrimp cooking on it. The grill remains black with visible charcoal underneath, and steam is rising from it, indicating that the grill is hot and the shrimp are being cooked.\n<Frame 5>: The same scene continues with the person still pouring the marinated shrimp from the white bowl onto the grill, which now has several pieces of shrimp cooking on it. The grill remains black with visible charcoal underneath, and steam is rising from it, indicating that the grill is hot and the shrimp are being cooked.\n<Frame 6>: In this frame, a hand is seen reaching into the white bowl filled with marinated shrimp. The bowl is placed over the grill, and the hand appears to be about to pick up or adjust the bowl. The grill and the grassy background remain the same as in the previous frame."
+    },
+    {
+        "idx": "0349",
+        "action_label": "grilling potato",
+        "n_frames": 6,
+        "image_files": [
+            "data/howtochange/val_frames/hed0kuzHxLY_st146.0_dur40.0/frame007.png",
+            "data/howtochange/val_frames/hed0kuzHxLY_st146.0_dur40.0/frame012.png",
+            "data/howtochange/val_frames/hed0kuzHxLY_st146.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/hed0kuzHxLY_st146.0_dur40.0/frame025.png",
+            "data/howtochange/val_frames/hed0kuzHxLY_st146.0_dur40.0/frame029.png",
+            "data/howtochange/val_frames/hed0kuzHxLY_st146.0_dur40.0/frame032.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting grilling potato, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n",
+        "response0": "<Frame 1>: A close-up view of a grill with glowing orange coals at the bottom, indicating it is hot and ready for cooking. A hand holding a pair of tongs is seen placing an orange object, possibly food, onto the grill grate.\n<Frame 2>: The same grill as in the previous frame, but now a hand is holding a stainless steel bowl and placing two round pieces of food, likely sausages or patties, onto the grill grate using the tongs. The background shows the interior of the grill, including the metal grates and some visible flames beneath them.\n<Frame 3>: Multiple slices of food are now cooking on the grill, arranged in a row. The grill remains black with visible flames underneath, and the background is not clearly visible.\n<Frame 4>: In this frame, a hand is holding a metal bowl near the grill. The bowl is empty, and the hand appears to be reaching towards the grill, possibly to add more food or adjust the cooking process. The grill remains the same as in the previous frame, with the food items still cooking on it.\n<Frame 5>: The same grill with the potato slices now being turned over using a metal spatula. The person's hand is visible, holding the spatula and flipping one of the potato slices. The background remains consistent with the previous frame, showing the grill's metal grates and the glowing embers beneath.\n<Frame 6>: The same grill with multiple slices of food now cooking on it. The food has been arranged in a circular pattern, and there are visible flames underneath the grill grates."
+    }
+]

@@ -1,0 +1,1084 @@
+[
+    {
+        "idx": "0004",
+        "action_label": "PrepareSumiInk",
+        "n_frames": 5,
+        "image_files": [
+            "data/coin/testing_frames/wVI5S7-ZUTw/frame011.png",
+            "data/coin/testing_frames/wVI5S7-ZUTw/frame028.png",
+            "data/coin/testing_frames/wVI5S7-ZUTw/frame029.png",
+            "data/coin/testing_frames/wVI5S7-ZUTw/frame059.png",
+            "data/coin/testing_frames/wVI5S7-ZUTw/frame070.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting PrepareSumiInk, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0007",
+        "action_label": "RaiseFlag",
+        "n_frames": 6,
+        "image_files": [
+            "data/coin/testing_frames/IVFF4dXizms/frame011.png",
+            "data/coin/testing_frames/IVFF4dXizms/frame045.png",
+            "data/coin/testing_frames/IVFF4dXizms/frame048.png",
+            "data/coin/testing_frames/IVFF4dXizms/frame083.png",
+            "data/coin/testing_frames/IVFF4dXizms/frame084.png",
+            "data/coin/testing_frames/IVFF4dXizms/frame103.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting RaiseFlag, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0010",
+        "action_label": "OpenALockWithPaperclips",
+        "n_frames": 5,
+        "image_files": [
+            "data/coin/testing_frames/XFKHU7xZvZU/frame054.png",
+            "data/coin/testing_frames/XFKHU7xZvZU/frame062.png",
+            "data/coin/testing_frames/XFKHU7xZvZU/frame085.png",
+            "data/coin/testing_frames/XFKHU7xZvZU/frame086.png",
+            "data/coin/testing_frames/XFKHU7xZvZU/frame089.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting OpenALockWithPaperclips, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0020",
+        "action_label": "CutGrapeFruit",
+        "n_frames": 6,
+        "image_files": [
+            "data/coin/testing_frames/UGnFe0RDao8/frame005.png",
+            "data/coin/testing_frames/UGnFe0RDao8/frame006.png",
+            "data/coin/testing_frames/UGnFe0RDao8/frame010.png",
+            "data/coin/testing_frames/UGnFe0RDao8/frame016.png",
+            "data/coin/testing_frames/UGnFe0RDao8/frame018.png",
+            "data/coin/testing_frames/UGnFe0RDao8/frame019.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting CutGrapeFruit, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0024",
+        "action_label": "RefillFountainPen",
+        "n_frames": 5,
+        "image_files": [
+            "data/coin/testing_frames/dvjJE-RhKOY/frame059.png",
+            "data/coin/testing_frames/dvjJE-RhKOY/frame127.png",
+            "data/coin/testing_frames/dvjJE-RhKOY/frame148.png",
+            "data/coin/testing_frames/dvjJE-RhKOY/frame158.png",
+            "data/coin/testing_frames/dvjJE-RhKOY/frame159.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting RefillFountainPen, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0027",
+        "action_label": "ReplaceMemoryChip",
+        "n_frames": 5,
+        "image_files": [
+            "data/coin/testing_frames/QWS6Fxhbh9c/frame021.png",
+            "data/coin/testing_frames/QWS6Fxhbh9c/frame032.png",
+            "data/coin/testing_frames/QWS6Fxhbh9c/frame042.png",
+            "data/coin/testing_frames/QWS6Fxhbh9c/frame052.png",
+            "data/coin/testing_frames/QWS6Fxhbh9c/frame053.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting ReplaceMemoryChip, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0029",
+        "action_label": "CutMango",
+        "n_frames": 4,
+        "image_files": [
+            "data/coin/testing_frames/KBbeGO5qRpE/frame079.png",
+            "data/coin/testing_frames/KBbeGO5qRpE/frame103.png",
+            "data/coin/testing_frames/KBbeGO5qRpE/frame123.png",
+            "data/coin/testing_frames/KBbeGO5qRpE/frame127.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting CutMango, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0035",
+        "action_label": "MakeFlowerPress",
+        "n_frames": 6,
+        "image_files": [
+            "data/coin/testing_frames/nReUL6L1REs/frame047.png",
+            "data/coin/testing_frames/nReUL6L1REs/frame048.png",
+            "data/coin/testing_frames/nReUL6L1REs/frame056.png",
+            "data/coin/testing_frames/nReUL6L1REs/frame085.png",
+            "data/coin/testing_frames/nReUL6L1REs/frame086.png",
+            "data/coin/testing_frames/nReUL6L1REs/frame111.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting MakeFlowerPress, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0037",
+        "action_label": "PasteScreenProtectorOnPad",
+        "n_frames": 4,
+        "image_files": [
+            "data/coin/testing_frames/q6PCf412j08/frame027.png",
+            "data/coin/testing_frames/q6PCf412j08/frame028.png",
+            "data/coin/testing_frames/q6PCf412j08/frame039.png",
+            "data/coin/testing_frames/q6PCf412j08/frame060.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting PasteScreenProtectorOnPad, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0042",
+        "action_label": "ReplaceLaptopScreen",
+        "n_frames": 6,
+        "image_files": [
+            "data/coin/testing_frames/KN10J4jjxac/frame014.png",
+            "data/coin/testing_frames/KN10J4jjxac/frame062.png",
+            "data/coin/testing_frames/KN10J4jjxac/frame073.png",
+            "data/coin/testing_frames/KN10J4jjxac/frame089.png",
+            "data/coin/testing_frames/KN10J4jjxac/frame090.png",
+            "data/coin/testing_frames/KN10J4jjxac/frame127.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting ReplaceLaptopScreen, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0043",
+        "action_label": "CutCantaloupe",
+        "n_frames": 6,
+        "image_files": [
+            "data/coin/testing_frames/P1XthAiCn6g/frame068.png",
+            "data/coin/testing_frames/P1XthAiCn6g/frame072.png",
+            "data/coin/testing_frames/P1XthAiCn6g/frame078.png",
+            "data/coin/testing_frames/P1XthAiCn6g/frame097.png",
+            "data/coin/testing_frames/P1XthAiCn6g/frame099.png",
+            "data/coin/testing_frames/P1XthAiCn6g/frame100.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting CutCantaloupe, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0045",
+        "action_label": "ReplaceBatteryOnKeyToCar",
+        "n_frames": 5,
+        "image_files": [
+            "data/coin/testing_frames/IPGhVXXJjRU/frame029.png",
+            "data/coin/testing_frames/IPGhVXXJjRU/frame114.png",
+            "data/coin/testing_frames/IPGhVXXJjRU/frame115.png",
+            "data/coin/testing_frames/IPGhVXXJjRU/frame119.png",
+            "data/coin/testing_frames/IPGhVXXJjRU/frame123.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting ReplaceBatteryOnKeyToCar, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0052",
+        "action_label": "DrillHole",
+        "n_frames": 6,
+        "image_files": [
+            "data/coin/testing_frames/1jkA5Zr6NNs/frame056.png",
+            "data/coin/testing_frames/1jkA5Zr6NNs/frame075.png",
+            "data/coin/testing_frames/1jkA5Zr6NNs/frame076.png",
+            "data/coin/testing_frames/1jkA5Zr6NNs/frame091.png",
+            "data/coin/testing_frames/1jkA5Zr6NNs/frame110.png",
+            "data/coin/testing_frames/1jkA5Zr6NNs/frame117.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting DrillHole, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0053",
+        "action_label": "PackSleepingBag",
+        "n_frames": 4,
+        "image_files": [
+            "data/coin/testing_frames/H7gqDAEH_NQ/frame009.png",
+            "data/coin/testing_frames/H7gqDAEH_NQ/frame023.png",
+            "data/coin/testing_frames/H7gqDAEH_NQ/frame044.png",
+            "data/coin/testing_frames/H7gqDAEH_NQ/frame045.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting PackSleepingBag, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0057",
+        "action_label": "OperateFireExtinguisher",
+        "n_frames": 4,
+        "image_files": [
+            "data/coin/testing_frames/xC47OkzyXRU/frame036.png",
+            "data/coin/testing_frames/xC47OkzyXRU/frame037.png",
+            "data/coin/testing_frames/xC47OkzyXRU/frame045.png",
+            "data/coin/testing_frames/xC47OkzyXRU/frame046.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting OperateFireExtinguisher, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0060",
+        "action_label": "RefillALighter",
+        "n_frames": 4,
+        "image_files": [
+            "data/coin/testing_frames/jz0h--teoH8/frame061.png",
+            "data/coin/testing_frames/jz0h--teoH8/frame137.png",
+            "data/coin/testing_frames/jz0h--teoH8/frame145.png",
+            "data/coin/testing_frames/jz0h--teoH8/frame149.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting RefillALighter, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0062",
+        "action_label": "CleanLaptopKeyboard",
+        "n_frames": 4,
+        "image_files": [
+            "data/coin/testing_frames/FMOa6Sxdxhk/frame053.png",
+            "data/coin/testing_frames/FMOa6Sxdxhk/frame055.png",
+            "data/coin/testing_frames/FMOa6Sxdxhk/frame058.png",
+            "data/coin/testing_frames/FMOa6Sxdxhk/frame061.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting CleanLaptopKeyboard, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0064",
+        "action_label": "ReplaceABulb",
+        "n_frames": 6,
+        "image_files": [
+            "data/coin/testing_frames/E68Llv60s3s/frame045.png",
+            "data/coin/testing_frames/E68Llv60s3s/frame053.png",
+            "data/coin/testing_frames/E68Llv60s3s/frame064.png",
+            "data/coin/testing_frames/E68Llv60s3s/frame066.png",
+            "data/coin/testing_frames/E68Llv60s3s/frame067.png",
+            "data/coin/testing_frames/E68Llv60s3s/frame070.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting ReplaceABulb, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0067",
+        "action_label": "PolishCar",
+        "n_frames": 5,
+        "image_files": [
+            "data/coin/testing_frames/xLbxou1sUM0/frame028.png",
+            "data/coin/testing_frames/xLbxou1sUM0/frame060.png",
+            "data/coin/testing_frames/xLbxou1sUM0/frame061.png",
+            "data/coin/testing_frames/xLbxou1sUM0/frame094.png",
+            "data/coin/testing_frames/xLbxou1sUM0/frame098.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting PolishCar, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0068",
+        "action_label": "ResizeWatchBand",
+        "n_frames": 6,
+        "image_files": [
+            "data/coin/testing_frames/CHpAz75RNkM/frame102.png",
+            "data/coin/testing_frames/CHpAz75RNkM/frame131.png",
+            "data/coin/testing_frames/CHpAz75RNkM/frame132.png",
+            "data/coin/testing_frames/CHpAz75RNkM/frame156.png",
+            "data/coin/testing_frames/CHpAz75RNkM/frame161.png",
+            "data/coin/testing_frames/CHpAz75RNkM/frame191.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting ResizeWatchBand, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0070",
+        "action_label": "FuelCar",
+        "n_frames": 4,
+        "image_files": [
+            "data/coin/testing_frames/uMM0lRfX6YI/frame001.png",
+            "data/coin/testing_frames/uMM0lRfX6YI/frame022.png",
+            "data/coin/testing_frames/uMM0lRfX6YI/frame023.png",
+            "data/coin/testing_frames/uMM0lRfX6YI/frame026.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting FuelCar, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0070",
+        "action_label": "InstallWoodFlooring",
+        "n_frames": 4,
+        "image_files": [
+            "data/coin/testing_frames/7l6ts1YwnfU/frame037.png",
+            "data/coin/testing_frames/7l6ts1YwnfU/frame038.png",
+            "data/coin/testing_frames/7l6ts1YwnfU/frame042.png",
+            "data/coin/testing_frames/7l6ts1YwnfU/frame079.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting InstallWoodFlooring, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0071",
+        "action_label": "MakeChineseLantern",
+        "n_frames": 6,
+        "image_files": [
+            "data/coin/testing_frames/9irHyjMSuQ0/frame072.png",
+            "data/coin/testing_frames/9irHyjMSuQ0/frame087.png",
+            "data/coin/testing_frames/9irHyjMSuQ0/frame089.png",
+            "data/coin/testing_frames/9irHyjMSuQ0/frame107.png",
+            "data/coin/testing_frames/9irHyjMSuQ0/frame117.png",
+            "data/coin/testing_frames/9irHyjMSuQ0/frame142.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting MakeChineseLantern, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0072",
+        "action_label": "FuelCar",
+        "n_frames": 5,
+        "image_files": [
+            "data/coin/testing_frames/hboyFbDrrXw/frame054.png",
+            "data/coin/testing_frames/hboyFbDrrXw/frame060.png",
+            "data/coin/testing_frames/hboyFbDrrXw/frame061.png",
+            "data/coin/testing_frames/hboyFbDrrXw/frame067.png",
+            "data/coin/testing_frames/hboyFbDrrXw/frame068.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting FuelCar, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0075",
+        "action_label": "TieBoatToDock",
+        "n_frames": 4,
+        "image_files": [
+            "data/coin/testing_frames/3IRQpnmMFyo/frame010.png",
+            "data/coin/testing_frames/3IRQpnmMFyo/frame016.png",
+            "data/coin/testing_frames/3IRQpnmMFyo/frame017.png",
+            "data/coin/testing_frames/3IRQpnmMFyo/frame024.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting TieBoatToDock, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0075",
+        "action_label": "PractiseKarate",
+        "n_frames": 5,
+        "image_files": [
+            "data/coin/testing_frames/89ts_Imt3RQ/frame009.png",
+            "data/coin/testing_frames/89ts_Imt3RQ/frame029.png",
+            "data/coin/testing_frames/89ts_Imt3RQ/frame078.png",
+            "data/coin/testing_frames/89ts_Imt3RQ/frame079.png",
+            "data/coin/testing_frames/89ts_Imt3RQ/frame091.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting PractiseKarate, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0076",
+        "action_label": "PractisePoleVault",
+        "n_frames": 4,
+        "image_files": [
+            "data/coin/testing_frames/4KsGh49OUz4/frame006.png",
+            "data/coin/testing_frames/4KsGh49OUz4/frame007.png",
+            "data/coin/testing_frames/4KsGh49OUz4/frame013.png",
+            "data/coin/testing_frames/4KsGh49OUz4/frame017.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting PractisePoleVault, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0081",
+        "action_label": "TieBoatToDock",
+        "n_frames": 5,
+        "image_files": [
+            "data/coin/testing_frames/2CLt4BEBMRk/frame003.png",
+            "data/coin/testing_frames/2CLt4BEBMRk/frame004.png",
+            "data/coin/testing_frames/2CLt4BEBMRk/frame008.png",
+            "data/coin/testing_frames/2CLt4BEBMRk/frame014.png",
+            "data/coin/testing_frames/2CLt4BEBMRk/frame016.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting TieBoatToDock, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0082",
+        "action_label": "PitchATent",
+        "n_frames": 6,
+        "image_files": [
+            "data/coin/testing_frames/RuN2QW1TbZc/frame012.png",
+            "data/coin/testing_frames/RuN2QW1TbZc/frame029.png",
+            "data/coin/testing_frames/RuN2QW1TbZc/frame046.png",
+            "data/coin/testing_frames/RuN2QW1TbZc/frame101.png",
+            "data/coin/testing_frames/RuN2QW1TbZc/frame113.png",
+            "data/coin/testing_frames/RuN2QW1TbZc/frame114.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting PitchATent, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0085",
+        "action_label": "UseNetiPot",
+        "n_frames": 4,
+        "image_files": [
+            "data/coin/testing_frames/_5rVCxtKaZE/frame015.png",
+            "data/coin/testing_frames/_5rVCxtKaZE/frame016.png",
+            "data/coin/testing_frames/_5rVCxtKaZE/frame035.png",
+            "data/coin/testing_frames/_5rVCxtKaZE/frame064.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting UseNetiPot, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0088",
+        "action_label": "ReplaceSIMCard",
+        "n_frames": 6,
+        "image_files": [
+            "data/coin/testing_frames/T5OFV0tjlLU/frame024.png",
+            "data/coin/testing_frames/T5OFV0tjlLU/frame031.png",
+            "data/coin/testing_frames/T5OFV0tjlLU/frame032.png",
+            "data/coin/testing_frames/T5OFV0tjlLU/frame044.png",
+            "data/coin/testing_frames/T5OFV0tjlLU/frame045.png",
+            "data/coin/testing_frames/T5OFV0tjlLU/frame049.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting ReplaceSIMCard, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0089",
+        "action_label": "ReplaceFaucet",
+        "n_frames": 5,
+        "image_files": [
+            "data/coin/testing_frames/P7oxMzwzx7o/frame017.png",
+            "data/coin/testing_frames/P7oxMzwzx7o/frame036.png",
+            "data/coin/testing_frames/P7oxMzwzx7o/frame100.png",
+            "data/coin/testing_frames/P7oxMzwzx7o/frame102.png",
+            "data/coin/testing_frames/P7oxMzwzx7o/frame108.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting ReplaceFaucet, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0095",
+        "action_label": "MakePaperWindMill",
+        "n_frames": 6,
+        "image_files": [
+            "data/coin/testing_frames/muywzgSIaqg/frame030.png",
+            "data/coin/testing_frames/muywzgSIaqg/frame094.png",
+            "data/coin/testing_frames/muywzgSIaqg/frame095.png",
+            "data/coin/testing_frames/muywzgSIaqg/frame113.png",
+            "data/coin/testing_frames/muywzgSIaqg/frame124.png",
+            "data/coin/testing_frames/muywzgSIaqg/frame143.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting MakePaperWindMill, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0099",
+        "action_label": "UseVolumetricFlask",
+        "n_frames": 6,
+        "image_files": [
+            "data/coin/testing_frames/GfJv-dSWihQ/frame060.png",
+            "data/coin/testing_frames/GfJv-dSWihQ/frame070.png",
+            "data/coin/testing_frames/GfJv-dSWihQ/frame071.png",
+            "data/coin/testing_frames/GfJv-dSWihQ/frame092.png",
+            "data/coin/testing_frames/GfJv-dSWihQ/frame099.png",
+            "data/coin/testing_frames/GfJv-dSWihQ/frame111.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting UseVolumetricFlask, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0100",
+        "action_label": "BandageHead",
+        "n_frames": 5,
+        "image_files": [
+            "data/coin/testing_frames/wPUeRxWYMPE/frame063.png",
+            "data/coin/testing_frames/wPUeRxWYMPE/frame077.png",
+            "data/coin/testing_frames/wPUeRxWYMPE/frame078.png",
+            "data/coin/testing_frames/wPUeRxWYMPE/frame098.png",
+            "data/coin/testing_frames/wPUeRxWYMPE/frame104.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting BandageHead, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0106",
+        "action_label": "CutGrapeFruit",
+        "n_frames": 2,
+        "image_files": [
+            "data/coin/testing_frames/vE7lIJkS1t8/frame069.png",
+            "data/coin/testing_frames/vE7lIJkS1t8/frame072.png"
+        ],
+        "query0": "These are 2 frames extracted from a video sequence depicting CutGrapeFruit, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n<Frame 2>: Your description\n"
+    },
+    {
+        "idx": "0109",
+        "action_label": "PractiseTripleJump",
+        "n_frames": 4,
+        "image_files": [
+            "data/coin/testing_frames/t2OLb_e9P88/frame001.png",
+            "data/coin/testing_frames/t2OLb_e9P88/frame002.png",
+            "data/coin/testing_frames/t2OLb_e9P88/frame003.png",
+            "data/coin/testing_frames/t2OLb_e9P88/frame004.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting PractiseTripleJump, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0111",
+        "action_label": "Transplant",
+        "n_frames": 5,
+        "image_files": [
+            "data/coin/testing_frames/r9WA7OJAxwM/frame090.png",
+            "data/coin/testing_frames/r9WA7OJAxwM/frame094.png",
+            "data/coin/testing_frames/r9WA7OJAxwM/frame101.png",
+            "data/coin/testing_frames/r9WA7OJAxwM/frame107.png",
+            "data/coin/testing_frames/r9WA7OJAxwM/frame111.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting Transplant, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0111",
+        "action_label": "CookOmelet",
+        "n_frames": 6,
+        "image_files": [
+            "data/coin/testing_frames/aNPXoynTP5s/frame042.png",
+            "data/coin/testing_frames/aNPXoynTP5s/frame043.png",
+            "data/coin/testing_frames/aNPXoynTP5s/frame101.png",
+            "data/coin/testing_frames/aNPXoynTP5s/frame119.png",
+            "data/coin/testing_frames/aNPXoynTP5s/frame154.png",
+            "data/coin/testing_frames/aNPXoynTP5s/frame156.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting CookOmelet, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0112",
+        "action_label": "MakeBed",
+        "n_frames": 6,
+        "image_files": [
+            "data/coin/testing_frames/yJt6i2ZPQX0/frame040.png",
+            "data/coin/testing_frames/yJt6i2ZPQX0/frame082.png",
+            "data/coin/testing_frames/yJt6i2ZPQX0/frame100.png",
+            "data/coin/testing_frames/yJt6i2ZPQX0/frame178.png",
+            "data/coin/testing_frames/yJt6i2ZPQX0/frame200.png",
+            "data/coin/testing_frames/yJt6i2ZPQX0/frame204.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting MakeBed, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0117",
+        "action_label": "Transplant",
+        "n_frames": 4,
+        "image_files": [
+            "data/coin/testing_frames/y8RGOYkS96s/frame021.png",
+            "data/coin/testing_frames/y8RGOYkS96s/frame025.png",
+            "data/coin/testing_frames/y8RGOYkS96s/frame071.png",
+            "data/coin/testing_frames/y8RGOYkS96s/frame078.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting Transplant, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0119",
+        "action_label": "AssembleBed",
+        "n_frames": 5,
+        "image_files": [
+            "data/coin/testing_frames/jW0lZeFOmkk/frame028.png",
+            "data/coin/testing_frames/jW0lZeFOmkk/frame080.png",
+            "data/coin/testing_frames/jW0lZeFOmkk/frame081.png",
+            "data/coin/testing_frames/jW0lZeFOmkk/frame115.png",
+            "data/coin/testing_frames/jW0lZeFOmkk/frame129.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting AssembleBed, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0123",
+        "action_label": "ReplaceElectricalOutlet",
+        "n_frames": 6,
+        "image_files": [
+            "data/coin/testing_frames/XgzF7lwwa0A/frame218.png",
+            "data/coin/testing_frames/XgzF7lwwa0A/frame223.png",
+            "data/coin/testing_frames/XgzF7lwwa0A/frame329.png",
+            "data/coin/testing_frames/XgzF7lwwa0A/frame410.png",
+            "data/coin/testing_frames/XgzF7lwwa0A/frame442.png",
+            "data/coin/testing_frames/XgzF7lwwa0A/frame456.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting ReplaceElectricalOutlet, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0126",
+        "action_label": "CleanLaptopKeyboard",
+        "n_frames": 6,
+        "image_files": [
+            "data/coin/testing_frames/I0kY4V_1qQA/frame029.png",
+            "data/coin/testing_frames/I0kY4V_1qQA/frame032.png",
+            "data/coin/testing_frames/I0kY4V_1qQA/frame037.png",
+            "data/coin/testing_frames/I0kY4V_1qQA/frame039.png",
+            "data/coin/testing_frames/I0kY4V_1qQA/frame040.png",
+            "data/coin/testing_frames/I0kY4V_1qQA/frame047.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting CleanLaptopKeyboard, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0127",
+        "action_label": "CookOmelet",
+        "n_frames": 5,
+        "image_files": [
+            "data/coin/testing_frames/58Y7MXH_WAE/frame054.png",
+            "data/coin/testing_frames/58Y7MXH_WAE/frame058.png",
+            "data/coin/testing_frames/58Y7MXH_WAE/frame068.png",
+            "data/coin/testing_frames/58Y7MXH_WAE/frame080.png",
+            "data/coin/testing_frames/58Y7MXH_WAE/frame113.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting CookOmelet, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0128",
+        "action_label": "WrapGiftBox",
+        "n_frames": 4,
+        "image_files": [
+            "data/coin/testing_frames/fal72S6Hr7w/frame029.png",
+            "data/coin/testing_frames/fal72S6Hr7w/frame142.png",
+            "data/coin/testing_frames/fal72S6Hr7w/frame166.png",
+            "data/coin/testing_frames/fal72S6Hr7w/frame168.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting WrapGiftBox, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0128",
+        "action_label": "HangWallpaper",
+        "n_frames": 4,
+        "image_files": [
+            "data/coin/testing_frames/Ej7bN1kLiPY/frame097.png",
+            "data/coin/testing_frames/Ej7bN1kLiPY/frame098.png",
+            "data/coin/testing_frames/Ej7bN1kLiPY/frame099.png",
+            "data/coin/testing_frames/Ej7bN1kLiPY/frame109.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting HangWallpaper, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0129",
+        "action_label": "RemoveBlackheadsWithGlue",
+        "n_frames": 6,
+        "image_files": [
+            "data/coin/testing_frames/-gHd5vMtfzc/frame056.png",
+            "data/coin/testing_frames/-gHd5vMtfzc/frame061.png",
+            "data/coin/testing_frames/-gHd5vMtfzc/frame076.png",
+            "data/coin/testing_frames/-gHd5vMtfzc/frame097.png",
+            "data/coin/testing_frames/-gHd5vMtfzc/frame123.png",
+            "data/coin/testing_frames/-gHd5vMtfzc/frame125.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting RemoveBlackheadsWithGlue, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0132",
+        "action_label": "ChangeTonerCartridge",
+        "n_frames": 4,
+        "image_files": [
+            "data/coin/testing_frames/V6AYisqyhqg/frame022.png",
+            "data/coin/testing_frames/V6AYisqyhqg/frame028.png",
+            "data/coin/testing_frames/V6AYisqyhqg/frame073.png",
+            "data/coin/testing_frames/V6AYisqyhqg/frame074.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting ChangeTonerCartridge, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0133",
+        "action_label": "CutGrapeFruit",
+        "n_frames": 5,
+        "image_files": [
+            "data/coin/testing_frames/8Rg3kUk4pyo/frame106.png",
+            "data/coin/testing_frames/8Rg3kUk4pyo/frame111.png",
+            "data/coin/testing_frames/8Rg3kUk4pyo/frame124.png",
+            "data/coin/testing_frames/8Rg3kUk4pyo/frame148.png",
+            "data/coin/testing_frames/8Rg3kUk4pyo/frame149.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting CutGrapeFruit, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0133",
+        "action_label": "MakeTea",
+        "n_frames": 5,
+        "image_files": [
+            "data/coin/testing_frames/14eGsJgg8lE/frame034.png",
+            "data/coin/testing_frames/14eGsJgg8lE/frame060.png",
+            "data/coin/testing_frames/14eGsJgg8lE/frame061.png",
+            "data/coin/testing_frames/14eGsJgg8lE/frame122.png",
+            "data/coin/testing_frames/14eGsJgg8lE/frame139.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting MakeTea, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0145",
+        "action_label": "ReplaceFaucet",
+        "n_frames": 5,
+        "image_files": [
+            "data/coin/testing_frames/jdIF2fPPEYk/frame130.png",
+            "data/coin/testing_frames/jdIF2fPPEYk/frame142.png",
+            "data/coin/testing_frames/jdIF2fPPEYk/frame152.png",
+            "data/coin/testing_frames/jdIF2fPPEYk/frame198.png",
+            "data/coin/testing_frames/jdIF2fPPEYk/frame199.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting ReplaceFaucet, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0148",
+        "action_label": "MakeMatchaTea",
+        "n_frames": 4,
+        "image_files": [
+            "data/coin/testing_frames/pi4mSJkCuLQ/frame110.png",
+            "data/coin/testing_frames/pi4mSJkCuLQ/frame122.png",
+            "data/coin/testing_frames/pi4mSJkCuLQ/frame123.png",
+            "data/coin/testing_frames/pi4mSJkCuLQ/frame140.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting MakeMatchaTea, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0157",
+        "action_label": "MakeTea",
+        "n_frames": 3,
+        "image_files": [
+            "data/coin/testing_frames/9T-jv7BhB5o/frame014.png",
+            "data/coin/testing_frames/9T-jv7BhB5o/frame022.png",
+            "data/coin/testing_frames/9T-jv7BhB5o/frame024.png"
+        ],
+        "query0": "These are 3 frames extracted from a video sequence depicting MakeTea, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 3>: Your description\n"
+    },
+    {
+        "idx": "0164",
+        "action_label": "CookOmelet",
+        "n_frames": 5,
+        "image_files": [
+            "data/coin/testing_frames/B092Sckr3W4/frame010.png",
+            "data/coin/testing_frames/B092Sckr3W4/frame015.png",
+            "data/coin/testing_frames/B092Sckr3W4/frame018.png",
+            "data/coin/testing_frames/B092Sckr3W4/frame027.png",
+            "data/coin/testing_frames/B092Sckr3W4/frame028.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting CookOmelet, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0166",
+        "action_label": "ChangeBikeTires",
+        "n_frames": 5,
+        "image_files": [
+            "data/coin/testing_frames/SXA-VhY88pM/frame001.png",
+            "data/coin/testing_frames/SXA-VhY88pM/frame002.png",
+            "data/coin/testing_frames/SXA-VhY88pM/frame014.png",
+            "data/coin/testing_frames/SXA-VhY88pM/frame018.png",
+            "data/coin/testing_frames/SXA-VhY88pM/frame084.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting ChangeBikeTires, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0166",
+        "action_label": "ReplaceDoorKnob",
+        "n_frames": 5,
+        "image_files": [
+            "data/coin/testing_frames/3G-ptK2FOt8/frame040.png",
+            "data/coin/testing_frames/3G-ptK2FOt8/frame061.png",
+            "data/coin/testing_frames/3G-ptK2FOt8/frame073.png",
+            "data/coin/testing_frames/3G-ptK2FOt8/frame098.png",
+            "data/coin/testing_frames/3G-ptK2FOt8/frame122.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting ReplaceDoorKnob, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0170",
+        "action_label": "CutGrapeFruit",
+        "n_frames": 5,
+        "image_files": [
+            "data/coin/testing_frames/7uMmgOwUYrw/frame028.png",
+            "data/coin/testing_frames/7uMmgOwUYrw/frame030.png",
+            "data/coin/testing_frames/7uMmgOwUYrw/frame092.png",
+            "data/coin/testing_frames/7uMmgOwUYrw/frame113.png",
+            "data/coin/testing_frames/7uMmgOwUYrw/frame155.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting CutGrapeFruit, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0173",
+        "action_label": "FuelCar",
+        "n_frames": 4,
+        "image_files": [
+            "data/coin/testing_frames/TrTTiGNKess/frame035.png",
+            "data/coin/testing_frames/TrTTiGNKess/frame038.png",
+            "data/coin/testing_frames/TrTTiGNKess/frame041.png",
+            "data/coin/testing_frames/TrTTiGNKess/frame048.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting FuelCar, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0182",
+        "action_label": "ReplaceDoorKnob",
+        "n_frames": 6,
+        "image_files": [
+            "data/coin/testing_frames/wKLwx6P530Y/frame037.png",
+            "data/coin/testing_frames/wKLwx6P530Y/frame039.png",
+            "data/coin/testing_frames/wKLwx6P530Y/frame068.png",
+            "data/coin/testing_frames/wKLwx6P530Y/frame077.png",
+            "data/coin/testing_frames/wKLwx6P530Y/frame130.png",
+            "data/coin/testing_frames/wKLwx6P530Y/frame150.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting ReplaceDoorKnob, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0195",
+        "action_label": "InstallCeramicTile",
+        "n_frames": 5,
+        "image_files": [
+            "data/coin/testing_frames/5iUsMcohd08/frame047.png",
+            "data/coin/testing_frames/5iUsMcohd08/frame068.png",
+            "data/coin/testing_frames/5iUsMcohd08/frame115.png",
+            "data/coin/testing_frames/5iUsMcohd08/frame121.png",
+            "data/coin/testing_frames/5iUsMcohd08/frame122.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting InstallCeramicTile, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0197",
+        "action_label": "LubricateALock",
+        "n_frames": 4,
+        "image_files": [
+            "data/coin/testing_frames/E7vSuyCnvE8/frame014.png",
+            "data/coin/testing_frames/E7vSuyCnvE8/frame017.png",
+            "data/coin/testing_frames/E7vSuyCnvE8/frame020.png",
+            "data/coin/testing_frames/E7vSuyCnvE8/frame025.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting LubricateALock, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0199",
+        "action_label": "MakeRJ45Cable",
+        "n_frames": 5,
+        "image_files": [
+            "data/coin/testing_frames/EZOHqwRseKo/frame041.png",
+            "data/coin/testing_frames/EZOHqwRseKo/frame067.png",
+            "data/coin/testing_frames/EZOHqwRseKo/frame069.png",
+            "data/coin/testing_frames/EZOHqwRseKo/frame114.png",
+            "data/coin/testing_frames/EZOHqwRseKo/frame160.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting MakeRJ45Cable, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0202",
+        "action_label": "ChangeMobilePhoneBattery",
+        "n_frames": 5,
+        "image_files": [
+            "data/coin/testing_frames/YfoLv6ymrhQ/frame015.png",
+            "data/coin/testing_frames/YfoLv6ymrhQ/frame024.png",
+            "data/coin/testing_frames/YfoLv6ymrhQ/frame025.png",
+            "data/coin/testing_frames/YfoLv6ymrhQ/frame065.png",
+            "data/coin/testing_frames/YfoLv6ymrhQ/frame074.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting ChangeMobilePhoneBattery, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0213",
+        "action_label": "ParkParallel",
+        "n_frames": 3,
+        "image_files": [
+            "data/coin/testing_frames/8-bItJf7yUE/frame036.png",
+            "data/coin/testing_frames/8-bItJf7yUE/frame041.png",
+            "data/coin/testing_frames/8-bItJf7yUE/frame042.png"
+        ],
+        "query0": "These are 3 frames extracted from a video sequence depicting ParkParallel, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 3>: Your description\n"
+    },
+    {
+        "idx": "0214",
+        "action_label": "AssembleSofa",
+        "n_frames": 4,
+        "image_files": [
+            "data/coin/testing_frames/4kiZIDOUQAo/frame020.png",
+            "data/coin/testing_frames/4kiZIDOUQAo/frame034.png",
+            "data/coin/testing_frames/4kiZIDOUQAo/frame035.png",
+            "data/coin/testing_frames/4kiZIDOUQAo/frame038.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting AssembleSofa, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0226",
+        "action_label": "PutOnQuiltCover",
+        "n_frames": 5,
+        "image_files": [
+            "data/coin/testing_frames/fHv947jR_6U/frame011.png",
+            "data/coin/testing_frames/fHv947jR_6U/frame029.png",
+            "data/coin/testing_frames/fHv947jR_6U/frame030.png",
+            "data/coin/testing_frames/fHv947jR_6U/frame035.png",
+            "data/coin/testing_frames/fHv947jR_6U/frame038.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting PutOnQuiltCover, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0227",
+        "action_label": "CutGrapeFruit",
+        "n_frames": 4,
+        "image_files": [
+            "data/coin/testing_frames/Yc1YYQWzLfE/frame028.png",
+            "data/coin/testing_frames/Yc1YYQWzLfE/frame038.png",
+            "data/coin/testing_frames/Yc1YYQWzLfE/frame039.png",
+            "data/coin/testing_frames/Yc1YYQWzLfE/frame069.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting CutGrapeFruit, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0240",
+        "action_label": "WrapGiftBox",
+        "n_frames": 6,
+        "image_files": [
+            "data/coin/testing_frames/J2lrvrdf-ag/frame071.png",
+            "data/coin/testing_frames/J2lrvrdf-ag/frame133.png",
+            "data/coin/testing_frames/J2lrvrdf-ag/frame168.png",
+            "data/coin/testing_frames/J2lrvrdf-ag/frame174.png",
+            "data/coin/testing_frames/J2lrvrdf-ag/frame198.png",
+            "data/coin/testing_frames/J2lrvrdf-ag/frame199.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting WrapGiftBox, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0242",
+        "action_label": "PractisePoleVault",
+        "n_frames": 6,
+        "image_files": [
+            "data/coin/testing_frames/4jH2KlDxtZk/frame003.png",
+            "data/coin/testing_frames/4jH2KlDxtZk/frame004.png",
+            "data/coin/testing_frames/4jH2KlDxtZk/frame012.png",
+            "data/coin/testing_frames/4jH2KlDxtZk/frame042.png",
+            "data/coin/testing_frames/4jH2KlDxtZk/frame064.png",
+            "data/coin/testing_frames/4jH2KlDxtZk/frame073.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting PractisePoleVault, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0248",
+        "action_label": "PutOnQuiltCover",
+        "n_frames": 6,
+        "image_files": [
+            "data/coin/testing_frames/4SLggq4L_aY/frame010.png",
+            "data/coin/testing_frames/4SLggq4L_aY/frame035.png",
+            "data/coin/testing_frames/4SLggq4L_aY/frame036.png",
+            "data/coin/testing_frames/4SLggq4L_aY/frame063.png",
+            "data/coin/testing_frames/4SLggq4L_aY/frame064.png",
+            "data/coin/testing_frames/4SLggq4L_aY/frame076.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting PutOnQuiltCover, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0255",
+        "action_label": "ReplaceRefrigeratorWaterFilter",
+        "n_frames": 3,
+        "image_files": [
+            "data/coin/testing_frames/uE3qpAizZ1s/frame048.png",
+            "data/coin/testing_frames/uE3qpAizZ1s/frame052.png",
+            "data/coin/testing_frames/uE3qpAizZ1s/frame068.png"
+        ],
+        "query0": "These are 3 frames extracted from a video sequence depicting ReplaceRefrigeratorWaterFilter, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 3>: Your description\n"
+    },
+    {
+        "idx": "0279",
+        "action_label": "PrepareCanvas",
+        "n_frames": 6,
+        "image_files": [
+            "data/coin/testing_frames/84jpyW3opyU/frame023.png",
+            "data/coin/testing_frames/84jpyW3opyU/frame030.png",
+            "data/coin/testing_frames/84jpyW3opyU/frame032.png",
+            "data/coin/testing_frames/84jpyW3opyU/frame034.png",
+            "data/coin/testing_frames/84jpyW3opyU/frame035.png",
+            "data/coin/testing_frames/84jpyW3opyU/frame036.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting PrepareCanvas, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0322",
+        "action_label": "MakeBed",
+        "n_frames": 4,
+        "image_files": [
+            "data/coin/testing_frames/0R-MCN4gHT4/frame101.png",
+            "data/coin/testing_frames/0R-MCN4gHT4/frame102.png",
+            "data/coin/testing_frames/0R-MCN4gHT4/frame149.png",
+            "data/coin/testing_frames/0R-MCN4gHT4/frame171.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting MakeBed, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0325",
+        "action_label": "InstallWoodFlooring",
+        "n_frames": 5,
+        "image_files": [
+            "data/coin/testing_frames/8bf92WifHGA/frame053.png",
+            "data/coin/testing_frames/8bf92WifHGA/frame069.png",
+            "data/coin/testing_frames/8bf92WifHGA/frame070.png",
+            "data/coin/testing_frames/8bf92WifHGA/frame081.png",
+            "data/coin/testing_frames/8bf92WifHGA/frame083.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting InstallWoodFlooring, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0331",
+        "action_label": "BandageHead",
+        "n_frames": 6,
+        "image_files": [
+            "data/coin/testing_frames/MD5YnNIox4o/frame003.png",
+            "data/coin/testing_frames/MD5YnNIox4o/frame004.png",
+            "data/coin/testing_frames/MD5YnNIox4o/frame020.png",
+            "data/coin/testing_frames/MD5YnNIox4o/frame025.png",
+            "data/coin/testing_frames/MD5YnNIox4o/frame046.png",
+            "data/coin/testing_frames/MD5YnNIox4o/frame055.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting BandageHead, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0342",
+        "action_label": "MakePizza",
+        "n_frames": 4,
+        "image_files": [
+            "data/coin/testing_frames/wkvfztlC2ho/frame073.png",
+            "data/coin/testing_frames/wkvfztlC2ho/frame074.png",
+            "data/coin/testing_frames/wkvfztlC2ho/frame081.png",
+            "data/coin/testing_frames/wkvfztlC2ho/frame086.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting MakePizza, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0346",
+        "action_label": "MakeMatchaTea",
+        "n_frames": 6,
+        "image_files": [
+            "data/coin/testing_frames/sQD2lX2W-R8/frame007.png",
+            "data/coin/testing_frames/sQD2lX2W-R8/frame010.png",
+            "data/coin/testing_frames/sQD2lX2W-R8/frame015.png",
+            "data/coin/testing_frames/sQD2lX2W-R8/frame016.png",
+            "data/coin/testing_frames/sQD2lX2W-R8/frame019.png",
+            "data/coin/testing_frames/sQD2lX2W-R8/frame021.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting MakeMatchaTea, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0354",
+        "action_label": "MakeBurger",
+        "n_frames": 6,
+        "image_files": [
+            "data/coin/testing_frames/m6xLEZbORoY/frame135.png",
+            "data/coin/testing_frames/m6xLEZbORoY/frame149.png",
+            "data/coin/testing_frames/m6xLEZbORoY/frame161.png",
+            "data/coin/testing_frames/m6xLEZbORoY/frame168.png",
+            "data/coin/testing_frames/m6xLEZbORoY/frame169.png",
+            "data/coin/testing_frames/m6xLEZbORoY/frame179.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting MakeBurger, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0396",
+        "action_label": "TieBoatToDock",
+        "n_frames": 4,
+        "image_files": [
+            "data/coin/testing_frames/cyQAwvckrPo/frame033.png",
+            "data/coin/testing_frames/cyQAwvckrPo/frame036.png",
+            "data/coin/testing_frames/cyQAwvckrPo/frame037.png",
+            "data/coin/testing_frames/cyQAwvckrPo/frame040.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting TieBoatToDock, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0402",
+        "action_label": "MakePaperWindMill",
+        "n_frames": 5,
+        "image_files": [
+            "data/coin/testing_frames/JhN6Yntahqs/frame072.png",
+            "data/coin/testing_frames/JhN6Yntahqs/frame107.png",
+            "data/coin/testing_frames/JhN6Yntahqs/frame115.png",
+            "data/coin/testing_frames/JhN6Yntahqs/frame184.png",
+            "data/coin/testing_frames/JhN6Yntahqs/frame185.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting MakePaperWindMill, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0414",
+        "action_label": "PasteCarSticker",
+        "n_frames": 6,
+        "image_files": [
+            "data/coin/testing_frames/KcU7YjoI6-k/frame026.png",
+            "data/coin/testing_frames/KcU7YjoI6-k/frame030.png",
+            "data/coin/testing_frames/KcU7YjoI6-k/frame053.png",
+            "data/coin/testing_frames/KcU7YjoI6-k/frame077.png",
+            "data/coin/testing_frames/KcU7YjoI6-k/frame080.png",
+            "data/coin/testing_frames/KcU7YjoI6-k/frame089.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting PasteCarSticker, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0453",
+        "action_label": "UseVolumetricFlask",
+        "n_frames": 2,
+        "image_files": [
+            "data/coin/testing_frames/LK7rsIQo_lE/frame024.png",
+            "data/coin/testing_frames/LK7rsIQo_lE/frame028.png"
+        ],
+        "query0": "These are 2 frames extracted from a video sequence depicting UseVolumetricFlask, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n<Frame 2>: Your description\n"
+    },
+    {
+        "idx": "0459",
+        "action_label": "MakeSugarCoatedHaws",
+        "n_frames": 4,
+        "image_files": [
+            "data/coin/testing_frames/ulwxtD3fM3E/frame062.png",
+            "data/coin/testing_frames/ulwxtD3fM3E/frame084.png",
+            "data/coin/testing_frames/ulwxtD3fM3E/frame098.png",
+            "data/coin/testing_frames/ulwxtD3fM3E/frame099.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting MakeSugarCoatedHaws, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    }
+]

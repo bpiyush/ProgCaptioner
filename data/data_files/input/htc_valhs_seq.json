@@ -1,0 +1,713 @@
+[
+    {
+        "idx": "0020",
+        "action_label": "slicing butter",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/uYC9xAvPcro_st375.0_dur40.0/frame005.png",
+            "data/howtochange/val_frames/uYC9xAvPcro_st375.0_dur40.0/frame012.png",
+            "data/howtochange/val_frames/uYC9xAvPcro_st375.0_dur40.0/frame013.png",
+            "data/howtochange/val_frames/uYC9xAvPcro_st375.0_dur40.0/frame036.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting slicing butter, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0027",
+        "action_label": "whipping milk",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/pvg7GV4n3es_st48.0_dur40.0/frame024.png",
+            "data/howtochange/val_frames/pvg7GV4n3es_st48.0_dur40.0/frame025.png",
+            "data/howtochange/val_frames/pvg7GV4n3es_st48.0_dur40.0/frame032.png",
+            "data/howtochange/val_frames/pvg7GV4n3es_st48.0_dur40.0/frame035.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting whipping milk, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0029",
+        "action_label": "shredding chicken",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/W4_gfUkLL7I_st127.0_dur40.0/frame004.png",
+            "data/howtochange/val_frames/W4_gfUkLL7I_st127.0_dur40.0/frame005.png",
+            "data/howtochange/val_frames/W4_gfUkLL7I_st127.0_dur40.0/frame016.png",
+            "data/howtochange/val_frames/W4_gfUkLL7I_st127.0_dur40.0/frame032.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting shredding chicken, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0031",
+        "action_label": "slicing meat",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/G_PGTLaPkUE_st927.0_dur40.0/frame003.png",
+            "data/howtochange/val_frames/G_PGTLaPkUE_st927.0_dur40.0/frame023.png",
+            "data/howtochange/val_frames/G_PGTLaPkUE_st927.0_dur40.0/frame026.png",
+            "data/howtochange/val_frames/G_PGTLaPkUE_st927.0_dur40.0/frame034.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting slicing meat, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0037",
+        "action_label": "sauteing carrot",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/3S-K4k1y13c_st120.0_dur40.0/frame013.png",
+            "data/howtochange/val_frames/3S-K4k1y13c_st120.0_dur40.0/frame026.png",
+            "data/howtochange/val_frames/3S-K4k1y13c_st120.0_dur40.0/frame028.png",
+            "data/howtochange/val_frames/3S-K4k1y13c_st120.0_dur40.0/frame030.png",
+            "data/howtochange/val_frames/3S-K4k1y13c_st120.0_dur40.0/frame036.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting sauteing carrot, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0045",
+        "action_label": "chopping jalapeno",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/a3v-7jxMzuQ_st135.0_dur40.0/frame006.png",
+            "data/howtochange/val_frames/a3v-7jxMzuQ_st135.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/a3v-7jxMzuQ_st135.0_dur40.0/frame032.png",
+            "data/howtochange/val_frames/a3v-7jxMzuQ_st135.0_dur40.0/frame033.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting chopping jalapeno, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0051",
+        "action_label": "browning beef",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/iC_CIlzFLXU_st29.0_dur40.0/frame005.png",
+            "data/howtochange/val_frames/iC_CIlzFLXU_st29.0_dur40.0/frame016.png",
+            "data/howtochange/val_frames/iC_CIlzFLXU_st29.0_dur40.0/frame023.png",
+            "data/howtochange/val_frames/iC_CIlzFLXU_st29.0_dur40.0/frame024.png",
+            "data/howtochange/val_frames/iC_CIlzFLXU_st29.0_dur40.0/frame037.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting browning beef, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0054",
+        "action_label": "grilling eggplant",
+        "n_frames": 3,
+        "image_files": [
+            "data/howtochange/val_frames/mZtny6dGmgE_st110.0_dur40.0/frame019.png",
+            "data/howtochange/val_frames/mZtny6dGmgE_st110.0_dur40.0/frame024.png",
+            "data/howtochange/val_frames/mZtny6dGmgE_st110.0_dur40.0/frame029.png"
+        ],
+        "query0": "These are 3 frames extracted from a video sequence depicting grilling eggplant, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 3>: Your description\n"
+    },
+    {
+        "idx": "0056",
+        "action_label": "peeling prawn",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/aZCpY0smEl4_st89.0_dur40.0/frame006.png",
+            "data/howtochange/val_frames/aZCpY0smEl4_st89.0_dur40.0/frame010.png",
+            "data/howtochange/val_frames/aZCpY0smEl4_st89.0_dur40.0/frame012.png",
+            "data/howtochange/val_frames/aZCpY0smEl4_st89.0_dur40.0/frame016.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting peeling prawn, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0057",
+        "action_label": "rolling cake",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/grgDp1eVymM_st269.0_dur40.0/frame005.png",
+            "data/howtochange/val_frames/grgDp1eVymM_st269.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/grgDp1eVymM_st269.0_dur40.0/frame024.png",
+            "data/howtochange/val_frames/grgDp1eVymM_st269.0_dur40.0/frame031.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting rolling cake, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0071",
+        "action_label": "crushing peanut",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/NDG2r7PgXe8_st205.0_dur40.0/frame014.png",
+            "data/howtochange/val_frames/NDG2r7PgXe8_st205.0_dur40.0/frame023.png",
+            "data/howtochange/val_frames/NDG2r7PgXe8_st205.0_dur40.0/frame034.png",
+            "data/howtochange/val_frames/NDG2r7PgXe8_st205.0_dur40.0/frame038.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting crushing peanut, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0076",
+        "action_label": "chopping cucumber",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/8_GSgprtCrk_st372.0_dur40.0/frame018.png",
+            "data/howtochange/val_frames/8_GSgprtCrk_st372.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/8_GSgprtCrk_st372.0_dur40.0/frame028.png",
+            "data/howtochange/val_frames/8_GSgprtCrk_st372.0_dur40.0/frame030.png",
+            "data/howtochange/val_frames/8_GSgprtCrk_st372.0_dur40.0/frame038.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting chopping cucumber, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0079",
+        "action_label": "blending sugar",
+        "n_frames": 6,
+        "image_files": [
+            "data/howtochange/val_frames/erKRFeuUAlo_st79.0_dur40.0/frame006.png",
+            "data/howtochange/val_frames/erKRFeuUAlo_st79.0_dur40.0/frame015.png",
+            "data/howtochange/val_frames/erKRFeuUAlo_st79.0_dur40.0/frame020.png",
+            "data/howtochange/val_frames/erKRFeuUAlo_st79.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/erKRFeuUAlo_st79.0_dur40.0/frame023.png",
+            "data/howtochange/val_frames/erKRFeuUAlo_st79.0_dur40.0/frame029.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting blending sugar, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0083",
+        "action_label": "squeezing zucchini",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/pO47mfnyVrg_st13.0_dur40.0/frame008.png",
+            "data/howtochange/val_frames/pO47mfnyVrg_st13.0_dur40.0/frame014.png",
+            "data/howtochange/val_frames/pO47mfnyVrg_st13.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/pO47mfnyVrg_st13.0_dur40.0/frame023.png",
+            "data/howtochange/val_frames/pO47mfnyVrg_st13.0_dur40.0/frame028.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting squeezing zucchini, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0086",
+        "action_label": "chopping pecan",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/eY0yqIufaeM_st88.0_dur40.0/frame018.png",
+            "data/howtochange/val_frames/eY0yqIufaeM_st88.0_dur40.0/frame021.png",
+            "data/howtochange/val_frames/eY0yqIufaeM_st88.0_dur40.0/frame025.png",
+            "data/howtochange/val_frames/eY0yqIufaeM_st88.0_dur40.0/frame026.png",
+            "data/howtochange/val_frames/eY0yqIufaeM_st88.0_dur40.0/frame027.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting chopping pecan, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0103",
+        "action_label": "slicing pepperoni",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/-pSiLjumXXU_st347.0_dur40.0/frame017.png",
+            "data/howtochange/val_frames/-pSiLjumXXU_st347.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/-pSiLjumXXU_st347.0_dur40.0/frame024.png",
+            "data/howtochange/val_frames/-pSiLjumXXU_st347.0_dur40.0/frame028.png",
+            "data/howtochange/val_frames/-pSiLjumXXU_st347.0_dur40.0/frame036.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting slicing pepperoni, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0105",
+        "action_label": "sauteing ginger",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/uiOg974Eprg_st311.0_dur40.0/frame015.png",
+            "data/howtochange/val_frames/uiOg974Eprg_st311.0_dur40.0/frame020.png",
+            "data/howtochange/val_frames/uiOg974Eprg_st311.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/uiOg974Eprg_st311.0_dur40.0/frame025.png",
+            "data/howtochange/val_frames/uiOg974Eprg_st311.0_dur40.0/frame039.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting sauteing ginger, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0111",
+        "action_label": "grilling onion",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/FGeuT9ccQXU_st591.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/FGeuT9ccQXU_st591.0_dur40.0/frame024.png",
+            "data/howtochange/val_frames/FGeuT9ccQXU_st591.0_dur40.0/frame030.png",
+            "data/howtochange/val_frames/FGeuT9ccQXU_st591.0_dur40.0/frame031.png",
+            "data/howtochange/val_frames/FGeuT9ccQXU_st591.0_dur40.0/frame037.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting grilling onion, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0118",
+        "action_label": "grating cucumber",
+        "n_frames": 6,
+        "image_files": [
+            "data/howtochange/val_frames/VjgWIUaDvdw_st363.0_dur40.0/frame003.png",
+            "data/howtochange/val_frames/VjgWIUaDvdw_st363.0_dur40.0/frame025.png",
+            "data/howtochange/val_frames/VjgWIUaDvdw_st363.0_dur40.0/frame027.png",
+            "data/howtochange/val_frames/VjgWIUaDvdw_st363.0_dur40.0/frame029.png",
+            "data/howtochange/val_frames/VjgWIUaDvdw_st363.0_dur40.0/frame034.png",
+            "data/howtochange/val_frames/VjgWIUaDvdw_st363.0_dur40.0/frame037.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting grating cucumber, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0128",
+        "action_label": "browning garlic",
+        "n_frames": 3,
+        "image_files": [
+            "data/howtochange/val_frames/R0eAD6nVA5Q_st244.0_dur40.0/frame013.png",
+            "data/howtochange/val_frames/R0eAD6nVA5Q_st244.0_dur40.0/frame018.png",
+            "data/howtochange/val_frames/R0eAD6nVA5Q_st244.0_dur40.0/frame036.png"
+        ],
+        "query0": "These are 3 frames extracted from a video sequence depicting browning garlic, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 3>: Your description\n"
+    },
+    {
+        "idx": "0135",
+        "action_label": "melting sugar",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/SXiyp3-sO4M_st107.0_dur40.0/frame006.png",
+            "data/howtochange/val_frames/SXiyp3-sO4M_st107.0_dur40.0/frame020.png",
+            "data/howtochange/val_frames/SXiyp3-sO4M_st107.0_dur40.0/frame021.png",
+            "data/howtochange/val_frames/SXiyp3-sO4M_st107.0_dur40.0/frame035.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting melting sugar, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0136",
+        "action_label": "blending garlic",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/zVZzLOth1aE_st155.0_dur40.0/frame011.png",
+            "data/howtochange/val_frames/zVZzLOth1aE_st155.0_dur40.0/frame012.png",
+            "data/howtochange/val_frames/zVZzLOth1aE_st155.0_dur40.0/frame021.png",
+            "data/howtochange/val_frames/zVZzLOth1aE_st155.0_dur40.0/frame022.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting blending garlic, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0138",
+        "action_label": "whipping egg",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/7_AM8nmo_sI_st272.0_dur40.0/frame016.png",
+            "data/howtochange/val_frames/7_AM8nmo_sI_st272.0_dur40.0/frame026.png",
+            "data/howtochange/val_frames/7_AM8nmo_sI_st272.0_dur40.0/frame028.png",
+            "data/howtochange/val_frames/7_AM8nmo_sI_st272.0_dur40.0/frame037.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting whipping egg, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0139",
+        "action_label": "chopping walnut",
+        "n_frames": 3,
+        "image_files": [
+            "data/howtochange/val_frames/sL3fZ9QCeso_st113.0_dur40.0/frame017.png",
+            "data/howtochange/val_frames/sL3fZ9QCeso_st113.0_dur40.0/frame027.png",
+            "data/howtochange/val_frames/sL3fZ9QCeso_st113.0_dur40.0/frame033.png"
+        ],
+        "query0": "These are 3 frames extracted from a video sequence depicting chopping walnut, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 3>: Your description\n"
+    },
+    {
+        "idx": "0148",
+        "action_label": "browning sugar",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/9UgTP7r9h48_st78.0_dur40.0/frame010.png",
+            "data/howtochange/val_frames/9UgTP7r9h48_st78.0_dur40.0/frame020.png",
+            "data/howtochange/val_frames/9UgTP7r9h48_st78.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/9UgTP7r9h48_st78.0_dur40.0/frame035.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting browning sugar, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0151",
+        "action_label": "slicing pineapple",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/MMf9i3PwDzQ_st173.0_dur40.0/frame002.png",
+            "data/howtochange/val_frames/MMf9i3PwDzQ_st173.0_dur40.0/frame012.png",
+            "data/howtochange/val_frames/MMf9i3PwDzQ_st173.0_dur40.0/frame020.png",
+            "data/howtochange/val_frames/MMf9i3PwDzQ_st173.0_dur40.0/frame025.png",
+            "data/howtochange/val_frames/MMf9i3PwDzQ_st173.0_dur40.0/frame027.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting slicing pineapple, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0152",
+        "action_label": "peeling onion",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/H7Ne3s202lU_st37.0_dur52.0/frame015.png",
+            "data/howtochange/val_frames/H7Ne3s202lU_st37.0_dur52.0/frame016.png",
+            "data/howtochange/val_frames/H7Ne3s202lU_st37.0_dur52.0/frame017.png",
+            "data/howtochange/val_frames/H7Ne3s202lU_st37.0_dur52.0/frame020.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting peeling onion, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0156",
+        "action_label": "melting butter",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/B1cUV6i9uJE_st80.0_dur40.0/frame005.png",
+            "data/howtochange/val_frames/B1cUV6i9uJE_st80.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/B1cUV6i9uJE_st80.0_dur40.0/frame023.png",
+            "data/howtochange/val_frames/B1cUV6i9uJE_st80.0_dur40.0/frame031.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting melting butter, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0158",
+        "action_label": "rolling pasta",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/dl4bfh3P9r4_st448.0_dur40.0/frame016.png",
+            "data/howtochange/val_frames/dl4bfh3P9r4_st448.0_dur40.0/frame021.png",
+            "data/howtochange/val_frames/dl4bfh3P9r4_st448.0_dur40.0/frame024.png",
+            "data/howtochange/val_frames/dl4bfh3P9r4_st448.0_dur40.0/frame026.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting rolling pasta, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0160",
+        "action_label": "browning tofu",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/vnXlrGGJdEQ_st77.0_dur78.0/frame002.png",
+            "data/howtochange/val_frames/vnXlrGGJdEQ_st77.0_dur78.0/frame026.png",
+            "data/howtochange/val_frames/vnXlrGGJdEQ_st77.0_dur78.0/frame040.png",
+            "data/howtochange/val_frames/vnXlrGGJdEQ_st77.0_dur78.0/frame041.png",
+            "data/howtochange/val_frames/vnXlrGGJdEQ_st77.0_dur78.0/frame054.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting browning tofu, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0170",
+        "action_label": "peeling cucumber",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/6CbGPelZZ8E_st0.0_dur40.0/frame020.png",
+            "data/howtochange/val_frames/6CbGPelZZ8E_st0.0_dur40.0/frame021.png",
+            "data/howtochange/val_frames/6CbGPelZZ8E_st0.0_dur40.0/frame033.png",
+            "data/howtochange/val_frames/6CbGPelZZ8E_st0.0_dur40.0/frame037.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting peeling cucumber, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0171",
+        "action_label": "frying shallot",
+        "n_frames": 3,
+        "image_files": [
+            "data/howtochange/val_frames/rRTvmcwXciE_st60.0_dur40.0/frame023.png",
+            "data/howtochange/val_frames/rRTvmcwXciE_st60.0_dur40.0/frame036.png",
+            "data/howtochange/val_frames/rRTvmcwXciE_st60.0_dur40.0/frame038.png"
+        ],
+        "query0": "These are 3 frames extracted from a video sequence depicting frying shallot, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 3>: Your description\n"
+    },
+    {
+        "idx": "0175",
+        "action_label": "chopping tomato",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/rLrNbLo7Sjw_st164.0_dur40.0/frame007.png",
+            "data/howtochange/val_frames/rLrNbLo7Sjw_st164.0_dur40.0/frame008.png",
+            "data/howtochange/val_frames/rLrNbLo7Sjw_st164.0_dur40.0/frame018.png",
+            "data/howtochange/val_frames/rLrNbLo7Sjw_st164.0_dur40.0/frame027.png",
+            "data/howtochange/val_frames/rLrNbLo7Sjw_st164.0_dur40.0/frame029.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting chopping tomato, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0181",
+        "action_label": "slicing celery",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/bJynHyrB_sE_st320.0_dur40.0/frame019.png",
+            "data/howtochange/val_frames/bJynHyrB_sE_st320.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/bJynHyrB_sE_st320.0_dur40.0/frame035.png",
+            "data/howtochange/val_frames/bJynHyrB_sE_st320.0_dur40.0/frame036.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting slicing celery, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0184",
+        "action_label": "frying okra",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/daNCK7U2THI_st769.0_dur52.0/frame023.png",
+            "data/howtochange/val_frames/daNCK7U2THI_st769.0_dur52.0/frame031.png",
+            "data/howtochange/val_frames/daNCK7U2THI_st769.0_dur52.0/frame033.png",
+            "data/howtochange/val_frames/daNCK7U2THI_st769.0_dur52.0/frame045.png",
+            "data/howtochange/val_frames/daNCK7U2THI_st769.0_dur52.0/frame049.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting frying okra, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0189",
+        "action_label": "browning crust",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/9E4-ofkolJU_st273.0_dur40.0/frame012.png",
+            "data/howtochange/val_frames/9E4-ofkolJU_st273.0_dur40.0/frame018.png",
+            "data/howtochange/val_frames/9E4-ofkolJU_st273.0_dur40.0/frame029.png",
+            "data/howtochange/val_frames/9E4-ofkolJU_st273.0_dur40.0/frame033.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting browning crust, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0191",
+        "action_label": "melting margarine",
+        "n_frames": 3,
+        "image_files": [
+            "data/howtochange/val_frames/ITMTWdbQ7tY_st113.0_dur40.0/frame003.png",
+            "data/howtochange/val_frames/ITMTWdbQ7tY_st113.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/ITMTWdbQ7tY_st113.0_dur40.0/frame039.png"
+        ],
+        "query0": "These are 3 frames extracted from a video sequence depicting melting margarine, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 3>: Your description\n"
+    },
+    {
+        "idx": "0194",
+        "action_label": "chopping celery",
+        "n_frames": 6,
+        "image_files": [
+            "data/howtochange/val_frames/I379Wn1efow_st117.0_dur40.0/frame020.png",
+            "data/howtochange/val_frames/I379Wn1efow_st117.0_dur40.0/frame024.png",
+            "data/howtochange/val_frames/I379Wn1efow_st117.0_dur40.0/frame027.png",
+            "data/howtochange/val_frames/I379Wn1efow_st117.0_dur40.0/frame033.png",
+            "data/howtochange/val_frames/I379Wn1efow_st117.0_dur40.0/frame034.png",
+            "data/howtochange/val_frames/I379Wn1efow_st117.0_dur40.0/frame039.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting chopping celery, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0195",
+        "action_label": "slicing mango",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/BkzDuMGrcGY_st34.0_dur40.0/frame004.png",
+            "data/howtochange/val_frames/BkzDuMGrcGY_st34.0_dur40.0/frame015.png",
+            "data/howtochange/val_frames/BkzDuMGrcGY_st34.0_dur40.0/frame021.png",
+            "data/howtochange/val_frames/BkzDuMGrcGY_st34.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/BkzDuMGrcGY_st34.0_dur40.0/frame037.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting slicing mango, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0197",
+        "action_label": "chopping pepper",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/AK_re7pj-w0_st243.0_dur40.0/frame004.png",
+            "data/howtochange/val_frames/AK_re7pj-w0_st243.0_dur40.0/frame020.png",
+            "data/howtochange/val_frames/AK_re7pj-w0_st243.0_dur40.0/frame021.png",
+            "data/howtochange/val_frames/AK_re7pj-w0_st243.0_dur40.0/frame026.png",
+            "data/howtochange/val_frames/AK_re7pj-w0_st243.0_dur40.0/frame031.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting chopping pepper, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0201",
+        "action_label": "roasting chickpea",
+        "n_frames": 3,
+        "image_files": [
+            "data/howtochange/val_frames/twEm-LagcPc_st63.0_dur40.0/frame014.png",
+            "data/howtochange/val_frames/twEm-LagcPc_st63.0_dur40.0/frame033.png",
+            "data/howtochange/val_frames/twEm-LagcPc_st63.0_dur40.0/frame038.png"
+        ],
+        "query0": "These are 3 frames extracted from a video sequence depicting roasting chickpea, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 3>: Your description\n"
+    },
+    {
+        "idx": "0203",
+        "action_label": "whipping potato",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/am0IRnrHAXc_st143.0_dur40.0/frame014.png",
+            "data/howtochange/val_frames/am0IRnrHAXc_st143.0_dur40.0/frame035.png",
+            "data/howtochange/val_frames/am0IRnrHAXc_st143.0_dur40.0/frame036.png",
+            "data/howtochange/val_frames/am0IRnrHAXc_st143.0_dur40.0/frame037.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting whipping potato, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0211",
+        "action_label": "slicing chicken",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/nM2cBMLejdU_st446.0_dur40.0/frame009.png",
+            "data/howtochange/val_frames/nM2cBMLejdU_st446.0_dur40.0/frame023.png",
+            "data/howtochange/val_frames/nM2cBMLejdU_st446.0_dur40.0/frame030.png",
+            "data/howtochange/val_frames/nM2cBMLejdU_st446.0_dur40.0/frame031.png",
+            "data/howtochange/val_frames/nM2cBMLejdU_st446.0_dur40.0/frame038.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting slicing chicken, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0215",
+        "action_label": "slicing bread",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/Wd5Y6VoDzEo_st43.0_dur40.0/frame006.png",
+            "data/howtochange/val_frames/Wd5Y6VoDzEo_st43.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/Wd5Y6VoDzEo_st43.0_dur40.0/frame034.png",
+            "data/howtochange/val_frames/Wd5Y6VoDzEo_st43.0_dur40.0/frame036.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting slicing bread, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0219",
+        "action_label": "blending pepper",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/fNbl1gvyCEI_st331.0_dur77.0/frame019.png",
+            "data/howtochange/val_frames/fNbl1gvyCEI_st331.0_dur77.0/frame020.png",
+            "data/howtochange/val_frames/fNbl1gvyCEI_st331.0_dur77.0/frame044.png",
+            "data/howtochange/val_frames/fNbl1gvyCEI_st331.0_dur77.0/frame053.png",
+            "data/howtochange/val_frames/fNbl1gvyCEI_st331.0_dur77.0/frame070.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting blending pepper, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0223",
+        "action_label": "shredding beef",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/b_UQMLPNgSU_st263.0_dur40.0/frame007.png",
+            "data/howtochange/val_frames/b_UQMLPNgSU_st263.0_dur40.0/frame008.png",
+            "data/howtochange/val_frames/b_UQMLPNgSU_st263.0_dur40.0/frame014.png",
+            "data/howtochange/val_frames/b_UQMLPNgSU_st263.0_dur40.0/frame029.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting shredding beef, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0233",
+        "action_label": "grilling cheese",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/XPiV2dLlN4E_st19.0_dur40.0/frame020.png",
+            "data/howtochange/val_frames/XPiV2dLlN4E_st19.0_dur40.0/frame023.png",
+            "data/howtochange/val_frames/XPiV2dLlN4E_st19.0_dur40.0/frame035.png",
+            "data/howtochange/val_frames/XPiV2dLlN4E_st19.0_dur40.0/frame036.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting grilling cheese, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0234",
+        "action_label": "mashing butter",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/QcYX30pP-Pc_st17.0_dur40.0/frame012.png",
+            "data/howtochange/val_frames/QcYX30pP-Pc_st17.0_dur40.0/frame014.png",
+            "data/howtochange/val_frames/QcYX30pP-Pc_st17.0_dur40.0/frame020.png",
+            "data/howtochange/val_frames/QcYX30pP-Pc_st17.0_dur40.0/frame026.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting mashing butter, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0237",
+        "action_label": "frying fish",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/2JmCBgagOBo_st268.0_dur40.0/frame002.png",
+            "data/howtochange/val_frames/2JmCBgagOBo_st268.0_dur40.0/frame003.png",
+            "data/howtochange/val_frames/2JmCBgagOBo_st268.0_dur40.0/frame027.png",
+            "data/howtochange/val_frames/2JmCBgagOBo_st268.0_dur40.0/frame035.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting frying fish, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0246",
+        "action_label": "melting jaggery",
+        "n_frames": 6,
+        "image_files": [
+            "data/howtochange/val_frames/l2pDvev4Scg_st397.0_dur52.0/frame003.png",
+            "data/howtochange/val_frames/l2pDvev4Scg_st397.0_dur52.0/frame008.png",
+            "data/howtochange/val_frames/l2pDvev4Scg_st397.0_dur52.0/frame011.png",
+            "data/howtochange/val_frames/l2pDvev4Scg_st397.0_dur52.0/frame028.png",
+            "data/howtochange/val_frames/l2pDvev4Scg_st397.0_dur52.0/frame033.png",
+            "data/howtochange/val_frames/l2pDvev4Scg_st397.0_dur52.0/frame045.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting melting jaggery, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0250",
+        "action_label": "blending banana",
+        "n_frames": 6,
+        "image_files": [
+            "data/howtochange/val_frames/9dWOEifkdfI_st1035.0_dur40.0/frame003.png",
+            "data/howtochange/val_frames/9dWOEifkdfI_st1035.0_dur40.0/frame004.png",
+            "data/howtochange/val_frames/9dWOEifkdfI_st1035.0_dur40.0/frame009.png",
+            "data/howtochange/val_frames/9dWOEifkdfI_st1035.0_dur40.0/frame014.png",
+            "data/howtochange/val_frames/9dWOEifkdfI_st1035.0_dur40.0/frame033.png",
+            "data/howtochange/val_frames/9dWOEifkdfI_st1035.0_dur40.0/frame036.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting blending banana, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0276",
+        "action_label": "sauteing shrimp",
+        "n_frames": 5,
+        "image_files": [
+            "data/howtochange/val_frames/iluvAxMbc2E_st100.0_dur40.0/frame015.png",
+            "data/howtochange/val_frames/iluvAxMbc2E_st100.0_dur40.0/frame021.png",
+            "data/howtochange/val_frames/iluvAxMbc2E_st100.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/iluvAxMbc2E_st100.0_dur40.0/frame023.png",
+            "data/howtochange/val_frames/iluvAxMbc2E_st100.0_dur40.0/frame027.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence depicting sauteing shrimp, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    },
+    {
+        "idx": "0281",
+        "action_label": "frying meat",
+        "n_frames": 6,
+        "image_files": [
+            "data/howtochange/val_frames/WRkWC391dEI_st107.0_dur40.0/frame012.png",
+            "data/howtochange/val_frames/WRkWC391dEI_st107.0_dur40.0/frame016.png",
+            "data/howtochange/val_frames/WRkWC391dEI_st107.0_dur40.0/frame020.png",
+            "data/howtochange/val_frames/WRkWC391dEI_st107.0_dur40.0/frame021.png",
+            "data/howtochange/val_frames/WRkWC391dEI_st107.0_dur40.0/frame023.png",
+            "data/howtochange/val_frames/WRkWC391dEI_st107.0_dur40.0/frame026.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting frying meat, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0286",
+        "action_label": "frying garlic",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/bAsZDDREpD0_st87.0_dur40.0/frame021.png",
+            "data/howtochange/val_frames/bAsZDDREpD0_st87.0_dur40.0/frame024.png",
+            "data/howtochange/val_frames/bAsZDDREpD0_st87.0_dur40.0/frame028.png",
+            "data/howtochange/val_frames/bAsZDDREpD0_st87.0_dur40.0/frame029.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting frying garlic, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0307",
+        "action_label": "slicing ham",
+        "n_frames": 4,
+        "image_files": [
+            "data/howtochange/val_frames/nktG1mVEYNk_st104.0_dur40.0/frame018.png",
+            "data/howtochange/val_frames/nktG1mVEYNk_st104.0_dur40.0/frame019.png",
+            "data/howtochange/val_frames/nktG1mVEYNk_st104.0_dur40.0/frame021.png",
+            "data/howtochange/val_frames/nktG1mVEYNk_st104.0_dur40.0/frame023.png"
+        ],
+        "query0": "These are 4 frames extracted from a video sequence depicting slicing ham, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 4>: Your description\n"
+    },
+    {
+        "idx": "0314",
+        "action_label": "grilling shrimp",
+        "n_frames": 6,
+        "image_files": [
+            "data/howtochange/val_frames/m0qnyCYAXdE_st345.0_dur40.0/frame023.png",
+            "data/howtochange/val_frames/m0qnyCYAXdE_st345.0_dur40.0/frame027.png",
+            "data/howtochange/val_frames/m0qnyCYAXdE_st345.0_dur40.0/frame029.png",
+            "data/howtochange/val_frames/m0qnyCYAXdE_st345.0_dur40.0/frame035.png",
+            "data/howtochange/val_frames/m0qnyCYAXdE_st345.0_dur40.0/frame039.png",
+            "data/howtochange/val_frames/m0qnyCYAXdE_st345.0_dur40.0/frame040.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting grilling shrimp, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    },
+    {
+        "idx": "0349",
+        "action_label": "grilling potato",
+        "n_frames": 6,
+        "image_files": [
+            "data/howtochange/val_frames/hed0kuzHxLY_st146.0_dur40.0/frame007.png",
+            "data/howtochange/val_frames/hed0kuzHxLY_st146.0_dur40.0/frame012.png",
+            "data/howtochange/val_frames/hed0kuzHxLY_st146.0_dur40.0/frame022.png",
+            "data/howtochange/val_frames/hed0kuzHxLY_st146.0_dur40.0/frame025.png",
+            "data/howtochange/val_frames/hed0kuzHxLY_st146.0_dur40.0/frame029.png",
+            "data/howtochange/val_frames/hed0kuzHxLY_st146.0_dur40.0/frame032.png"
+        ],
+        "query0": "These are 6 frames extracted from a video sequence depicting grilling potato, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the object's state during the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 6>: Your description\n"
+    }
+]

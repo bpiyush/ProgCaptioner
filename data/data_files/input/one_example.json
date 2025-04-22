@@ -1,0 +1,14 @@
+[
+    {
+        "idx": 0,
+        "n_frames": 5,
+        "image_files": [
+            "data/example_video/frame002.png",
+            "data/example_video/frame026.png",
+            "data/example_video/frame040.png",
+            "data/example_video/frame041.png",
+            "data/example_video/frame054.png"
+        ],
+        "query0": "These are 5 frames extracted from a video sequence, provide a description for each frame.\nRequirement: (1) Ensure each frame's description is specific to the corresponding frame, not referencing to other frames; (2) The description should focus on the specific action being performed, capturing the action and progression of the action. There is no need to comment on other elements, such as the background or unrelated objects.\nReply with the following format:\n<Frame 1>: Your description\n...\n<Frame 5>: Your description\n"
+    }
+]
