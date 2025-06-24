@@ -184,9 +184,10 @@ def process_row(row, data_list, id_col,action_col, desc_mode, frame_sampling, n_
     
     # 1. Select timestamps of frames to sample
     if frame_sampling == "uniform":
+        # Ok to convert to int since we do not care about FPS < 1
         selected_frame_idx = np.linspace(
             0, duration, n_frames, endpoint=False, dtype=float,
-        ).tolist()
+        ).tolist().astype(int)
         # print_info(f"Using uniform sampling: {len(selected_frame_idx)} frames")
     elif frame_sampling == "kmeans":
         raise NotImplementedError(
