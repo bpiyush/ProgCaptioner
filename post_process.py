@@ -1,6 +1,7 @@
 import os
 import json
 import glob
+import urllib.parse
 
 
 def process_response(response_dir):
@@ -82,9 +83,11 @@ def viz_data_with_pred(file_path):
         html_content += f'<div class="label">{idx}: {label}</div>\n'
         html_content += '<div class="image-row">\n'
         for i, image_file in enumerate(image_files):
+            # Convert file path to file:// URL with proper encoding
+            file_url = 'file://' + urllib.parse.quote(image_file, safe='')
             html_content += f"""
                 <div class="image-container">
-                <img src="{image_file}" alt="Image">
+                <img src="{file_url}" alt="Image">
             """
             html_content += f"""<div class="predictions">{response_list[i]}</div>"""
             html_content += "</div>\n"
