@@ -7,6 +7,7 @@ import pandas as pd
 import numpy as np
 import json
 from colorama import init, Fore, Back, Style
+import decord
 
 # Initialize colorama for cross-platform colored output
 init(autoreset=True)
@@ -114,11 +115,12 @@ def read_args():
         required=True,
         help='Path to the output directory',
     )
+    parser.add_argument("--debug", action="store_true", default=False)
     args = parser.parse_args()
     return args
 
 
-def configure_output_dir(df, id_col, output_dir):
+def configure_output_dir(df, id_col, output_dir, debug):
     """Configure the output directory."""
     print_progress("Setting up output directory structure...")
     os.makedirs(output_dir, exist_ok=True)
@@ -138,6 +140,11 @@ def configure_output_dir(df, id_col, output_dir):
     # but I will handle that later
     json_path = os.path.join(output_dir, "input_data.json")
     print_info(f"Output JSON will be saved to: {json_path}")
+    
+    # Add debug flag to df
+    if debug:
+        print_info("Debug mode is enabled, will only process the first 10 rows")
+        df = df.head(10)
     
     return df, json_path
 
@@ -171,10 +178,12 @@ def process_row(row, data_list, id_col,action_col, desc_mode, frame_sampling, n_
     """
     # print_progress(f"Processing video ID: {row[id_col]}")
     
+    total_frames = len(decord.VideoReader(row["video_path"]))
+    
     # 1. Select indices of frames to sample
     if frame_sampling == "uniform":
         selected_frame_idx = np.linspace(
-            0, n_frames, n_frames, endpoint=False, dtype=int,
+            0, total_frames, n_frames, endpoint=False, dtype=int,
         ).astype(int).tolist()
         # print_info(f"Using uniform sampling: {len(selected_frame_idx)} frames")
     elif frame_sampling == "kmeans":
@@ -243,7 +252,7 @@ def main(args):
     print()
     
     # Configure output directory
-    df, json_path = configure_output_dir(df, args.id_col, args.output_dir)
+    df, json_path = configure_output_dir(df, args.id_col, args.output_dir, args.debug)
     print()
 
     # Process each row
@@ -262,7 +271,6 @@ def main(args):
             args.frame_sampling,
             args.n_frames,
         )
-        import ipdb; ipdb.set_trace()
     
     # Save the data to a json file
     print_header("Saving Results")
