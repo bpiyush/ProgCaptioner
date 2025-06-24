@@ -3057,3 +3057,142 @@ def plot_confusion_matrix(x, cmap="viridis", title=None, show=False, return_as_p
         plt.close(fig)
         return image
     return fig
+
+
+from PIL import Image
+import ipywidgets as widgets
+from IPython.display import display, Markdown
+import numpy as np
+import io
+import base64
+
+def display_frames_with_captions(frames, captions, max_width=800, title=None):
+    """
+    Display frames side by side with their captions below each frame.
+    
+    Args:
+        frames (list): List of PIL Images
+        captions (list): List of text captions corresponding to each frame
+        max_width (int): Maximum width in pixels for the entire display
+        title (str, optional): Markdown formatted title to display above the frames
+    """
+    if len(frames) != len(captions):
+        raise ValueError("Number of frames must match number of captions")
+    
+    # Calculate individual frame width to fit within max_width
+    frame_width = max_width // len(frames)
+    
+    # Create widgets for each frame and caption
+    frame_widgets = []
+    for frame, caption in zip(frames, captions):
+        # Convert PIL Image to bytes for ipywidgets
+        buffered = io.BytesIO()
+        frame.save(buffered, format="PNG")
+        img_bytes = buffered.getvalue()
+        
+        img_widget = widgets.Image(
+            value=img_bytes,
+            format='png',
+            width=frame_width
+        )
+        
+        # Create caption widget with proper width and wrapping
+        caption_widget = widgets.HTML(
+            value=f'<div style="width:{frame_width}px; word-wrap: break-word; font-size: 12px; line-height: 1.2;">{caption}</div>',
+            layout=widgets.Layout(
+                width=f'{frame_width}px',
+                height='auto',
+                overflow='visible'
+            )
+        )
+        
+        # Combine image and caption in a VBox with padding
+        frame_box = widgets.VBox(
+            [img_widget, caption_widget],
+            layout=widgets.Layout(
+                padding='0px 0px'  # Add 50px padding on left and right
+            )
+        )
+        frame_widgets.append(frame_box)
+    
+    # Create HBox to display all frames side by side
+    frames_box = widgets.HBox(frame_widgets)
+    
+    # Create the final display box
+    if title:
+        # Create title widget with markdown
+        title_widget = widgets.HTML(
+            value=title,
+            layout=widgets.Layout(
+                width=f'{max_width}px',
+                padding='0px 0px 3px 0px',  # Add padding below title,
+            )
+        )
+        display_box = widgets.VBox([title_widget, frames_box])
+    else:
+        display_box = frames_box
+    
+    # Display the final widget
+    display(display_box)
+
+def display_frames_vertical_with_captions(frames, captions, max_width=800, caption_height=100):
+    """
+    Display frames vertically with their captions to the right of each frame.
+    
+    Args:
+        frames (list): List of PIL Images
+        captions (list): List of text captions corresponding to each frame
+        max_width (int): Maximum width in pixels for the entire display
+        caption_height (int): Desired height for captions in pixels
+    """
+    if len(frames) != len(captions):
+        raise ValueError("Number of frames must match number of captions")
+    
+    # Calculate caption width (using 40% of max_width)
+    caption_width = int(max_width * 0.4)
+    
+    # Create widgets for each frame and caption pair
+    frame_caption_pairs = []
+    for frame, caption in zip(frames, captions):
+        # Calculate image width based on aspect ratio and desired height
+        aspect_ratio = frame.width / frame.height
+        img_width = int(caption_height * aspect_ratio)
+        
+        # Convert PIL Image to bytes for ipywidgets
+        buffered = io.BytesIO()
+        frame.save(buffered, format="PNG")
+        img_bytes = buffered.getvalue()
+        
+        img_widget = widgets.Image(
+            value=img_bytes,
+            format='png',
+            width=img_width,
+            height=caption_height
+        )
+        
+        # Create caption widget with proper width and wrapping
+        caption_widget = widgets.HTML(
+            value=f'<div style="width:{caption_width}px; word-wrap: break-word; font-size: 12px; line-height: 1.2;">{caption}</div>',
+            layout=widgets.Layout(
+                width=f'{caption_width}px',
+                height=f'{caption_height}px',
+                overflow='auto',
+                padding='10px'  # Add some padding around the caption
+            )
+        )
+        
+        # Combine image and caption in an HBox
+        pair_box = widgets.HBox(
+            [img_widget, caption_widget],
+            layout=widgets.Layout(
+                padding='10px 0px',  # Add vertical padding between pairs
+                align_items='center'  # Center align items vertically
+            )
+        )
+        frame_caption_pairs.append(pair_box)
+    
+    # Create VBox to display all frame-caption pairs vertically
+    display_box = widgets.VBox(frame_caption_pairs)
+    
+    # Display the final widget
+    display(display_box) 
