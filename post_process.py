@@ -68,9 +68,15 @@ def viz_data_with_pred(file_path):
         data_list = json.load(f)
     print(f"Reading {len(data_list)} from {file_path}")
     
-    for data_dict in data_list:
+    for data_dict in data_list[:5]:
         idx = data_dict['idx']
         image_files = data_dict['image_files']
+        
+        # Check that image file exists
+        for image_file in image_files:
+            assert os.path.exists(image_file), \
+                f"Image file {image_file} does not exist"
+        
         response_list = data_dict['response0']
         label = data_dict['action_label'] if 'action_label' in data_dict else None
         html_content += f'<div class="label">{idx}: {label}</div>\n'
