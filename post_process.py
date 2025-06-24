@@ -78,7 +78,7 @@ def viz_data_with_pred(file_path):
         for i, image_file in enumerate(image_files):
             html_content += f"""
                 <div class="image-container">
-                <img src="../../{image_file}" alt="Image">
+                <img src="{image_file}" alt="Image">
             """
             html_content += f"""<div class="predictions">{response_list[i]}</div>"""
             html_content += "</div>\n"
