@@ -178,13 +178,15 @@ def process_row(row, data_list, id_col,action_col, desc_mode, frame_sampling, n_
     """
     # print_progress(f"Processing video ID: {row[id_col]}")
     
-    total_frames = len(decord.VideoReader(row["video_path"]))
+    vr = decord.VideoReader(row["video_path"])
+    total_frames = len(vr)
+    duration = total_frames / vr.get_avg_fps()
     
-    # 1. Select indices of frames to sample
+    # 1. Select timestamps of frames to sample
     if frame_sampling == "uniform":
         selected_frame_idx = np.linspace(
-            0, total_frames, n_frames, endpoint=False, dtype=int,
-        ).astype(int).tolist()
+            0, duration, n_frames, endpoint=False, dtype=float,
+        ).tolist()
         # print_info(f"Using uniform sampling: {len(selected_frame_idx)} frames")
     elif frame_sampling == "kmeans":
         raise NotImplementedError(
