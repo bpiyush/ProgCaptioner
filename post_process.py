@@ -2,6 +2,7 @@ import os
 import json
 import glob
 import urllib.parse
+import shutil
 
 
 def process_response(response_dir):
@@ -69,6 +70,11 @@ def viz_data_with_pred(file_path):
         data_list = json.load(f)
     print(f"Reading {len(data_list)} from {file_path}")
     
+    # Create images directory next to the HTML file
+    html_save_path = f"data/viz_html/{os.path.basename(file_path).replace('.json', '')}.html"
+    images_dir = os.path.join(os.path.dirname(html_save_path), 'images')
+    os.makedirs(images_dir, exist_ok=True)
+    
     for data_dict in data_list[:5]:
         idx = data_dict['idx']
         image_files = data_dict['image_files']
@@ -83,22 +89,30 @@ def viz_data_with_pred(file_path):
         html_content += f'<div class="label">{idx}: {label}</div>\n'
         html_content += '<div class="image-row">\n'
         for i, image_file in enumerate(image_files):
-            # Convert file path to file:// URL with proper encoding
-            file_url = 'file://' + urllib.parse.quote(image_file, safe='')
+            # Copy image to local directory and use relative path
+            image_filename = f"{idx}_{i}_{os.path.basename(image_file)}"
+            local_image_path = os.path.join(images_dir, image_filename)
+            
+            # Copy the image file
+            shutil.copy2(image_file, local_image_path)
+            
+            # Use relative path in HTML
+            relative_image_path = os.path.join('images', image_filename)
             html_content += f"""
                 <div class="image-container">
-                <img src="{file_url}" alt="Image">
+                <img src="{relative_image_path}" alt="Image">
             """
             html_content += f"""<div class="predictions">{response_list[i]}</div>"""
             html_content += "</div>\n"
         html_content += "</div>\n"
     html_content += """</body></html>""" 
     
-    save_path = f"data/viz_html/{os.path.basename(file_path).replace('.json', '')}.html"
+    save_path = html_save_path
     os.makedirs(os.path.dirname(save_path), exist_ok=True)
     with open(save_path, "w") as html_file:
         html_file.write(html_content)
     print(f"Saved visualization to {save_path}")
+    print(f"Images copied to {images_dir}")
     
     
 if __name__ == "__main__":
