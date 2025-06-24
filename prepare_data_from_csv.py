@@ -72,9 +72,10 @@ def extract_frames_by_time(video_path, timestamps):
     return frames
 
 
-def extract_and_save_frames(video_file, selected_frame_idx, frame_save_path):
+def extract_and_save_frames(video_file, selected_frame_idx, total_frames,frame_save_path):
     # print_progress(f"Processing video: {os.path.basename(video_file)}")
-    frames = extract_frames_by_time(video_file, selected_frame_idx)
+    selected_time_idx = [t / total_frames for t in selected_frame_idx]
+    frames = extract_frames_by_time(video_file, selected_time_idx)
     os.makedirs(frame_save_path, exist_ok=True)
     image_files = []
     for t, f in zip(selected_frame_idx, frames):
@@ -186,7 +187,7 @@ def process_row(row, data_list, id_col,action_col, desc_mode, frame_sampling, n_
     if frame_sampling == "uniform":
         # Ok to convert to int since we do not care about FPS < 1
         selected_frame_idx = np.linspace(
-            0, duration, n_frames, endpoint=False, dtype=float,
+            0, total_frames, n_frames, endpoint=False, dtype=float,
         ).tolist().astype(int)
         # print_info(f"Using uniform sampling: {len(selected_frame_idx)} frames")
     elif frame_sampling == "kmeans":
@@ -200,7 +201,7 @@ def process_row(row, data_list, id_col,action_col, desc_mode, frame_sampling, n_
     
     # 2. Extract and save frames
     image_files = extract_and_save_frames(
-        row["video_path"], selected_frame_idx, row["frame_dir"]
+        row["video_path"], selected_frame_idx, total_frames, row["frame_dir"]
     )
     
     # 3. Update the data_list with the processed data
