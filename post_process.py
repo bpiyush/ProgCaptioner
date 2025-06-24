@@ -94,4 +94,20 @@ def viz_data_with_pred(file_path):
     
 if __name__ == "__main__":
     # process_response('data/data_files/output')
-    viz_data_with_pred('data/data_files/output_processed/coin_valhs_seq.json')
+    # viz_data_with_pred('data/data_files/output_processed/coin_valhs_seq.json')
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--json_path",
+        type=str,
+        default='/scratch/shared/beegfs/piyush/datasets/Kinetics400/progress_captions/output_data.json'
+    )
+    parser.add_argument(
+        "--output_dir",
+        type=str,
+        default='data/viz_html'
+    )
+    args = parser.parse_args()
+
+    json_path = args.json_path
+    viz_data_with_pred(json_path)
