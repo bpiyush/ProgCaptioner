@@ -31,6 +31,7 @@ def parse_args():
     parser.add_argument("--overwrite", type=lambda x: (str(x).lower() == 'true'), default=True)
     parser.add_argument("--load_8bit", type=lambda x: (str(x).lower() == 'true'), default=False)
     parser.add_argument("--mm_newline_position", type=str, default="no_token")
+    parser.add_argument("--verbose", action="store_true", default=False)
     return parser.parse_args()
 
 
@@ -70,7 +71,7 @@ def load_model(args):
     return tokenizer, model, image_processor
 
 
-def run_one_inference(prompt, image_files, tokenizer, model, image_processor):
+def run_one_inference(prompt, image_files, tokenizer, model, image_processor, verbose=False):
     video = load_images(image_files) 
     video = image_processor.preprocess(video, return_tensors="pt")["pixel_values"].half().cuda()
     video = [video] # [(num_images, 3, 384, 384)]
@@ -98,7 +99,8 @@ def run_one_inference(prompt, image_files, tokenizer, model, image_processor):
         # deterministic sampling
         output_ids = model.generate(inputs=input_ids, images=video, attention_mask=attention_masks, modalities="video", do_sample=False, temperature=0.0, max_new_tokens=1024, top_p=0.1, num_beams=1, use_cache=True) 
     outputs = tokenizer.batch_decode(output_ids, skip_special_tokens=True)[0].strip()
-    print(outputs)
+    if verbose:
+        print(outputs)
     return outputs
 
 
@@ -125,7 +127,7 @@ def main():
             print(f"Missing image file {image_files[0]} for query {i}, skipping")
             continue
         print('-' * 20, i, '-' * 20)
-        output = run_one_inference(data_dict['query0'], image_files, tokenizer, model, image_processor)
+        output = run_one_inference(data_dict['query0'], image_files, tokenizer, model, image_processor, verbose=True)
         data_dict['response0'] = output
         new_data_list.append(data_dict)
     with open(output_file, 'w') as f:

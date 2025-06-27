@@ -71,10 +71,24 @@ def extract_frames_by_time(video_path, timestamps):
     # print_success(f"Successfully extracted {len(frames)} frames")
     return frames
 
+def get_duration(video_file):
+    cap = cv2.VideoCapture(video_file)
+    fps = cap.get(cv2.CAP_PROP_FPS)
+    total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
+    duration = total_frames / fps
+    return duration
+
+
+def get_duration_decord(video_file):
+    vr = decord.VideoReader(video_file)
+    duration = len(vr) / vr.get_avg_fps()
+    return duration
+
 
 def extract_and_save_frames(video_file, selected_frame_idx, total_frames,frame_save_path):
     # print_progress(f"Processing video: {os.path.basename(video_file)}")
-    selected_time_idx = [t / total_frames for t in selected_frame_idx]
+    duration = get_duration_decord(video_file)
+    selected_time_idx = [duration * (f / total_frames) for f in selected_frame_idx]
     frames = extract_frames_by_time(video_file, selected_time_idx)
     os.makedirs(frame_save_path, exist_ok=True)
     image_files = []
@@ -117,11 +131,12 @@ def read_args():
         help='Path to the output directory',
     )
     parser.add_argument("--debug", action="store_true", default=False)
+    parser.add_argument("--suffix", type=str, default="")
     args = parser.parse_args()
     return args
 
 
-def configure_output_dir(df, id_col, output_dir, debug):
+def configure_output_dir(df, id_col, output_dir, debug, suffix=""):
     """Configure the output directory."""
     print_progress("Setting up output directory structure...")
     os.makedirs(output_dir, exist_ok=True)
@@ -139,7 +154,8 @@ def configure_output_dir(df, id_col, output_dir, debug):
     # Configure a single json file to save all the data
     # TODO: This may not be feasible for large datasets
     # but I will handle that later
-    json_path = os.path.join(output_dir, "input_data.json")
+    suffix = f"_{suffix}" if suffix else ""
+    json_path = os.path.join(output_dir, f"input_data{suffix}.json")
     print_info(f"Output JSON will be saved to: {json_path}")
     
     # Add debug flag to df
@@ -256,7 +272,9 @@ def main(args):
     print()
     
     # Configure output directory
-    df, json_path = configure_output_dir(df, args.id_col, args.output_dir, args.debug)
+    df, json_path = configure_output_dir(
+        df, args.id_col, args.output_dir, args.debug, args.suffix,
+    )
     print()
 
     # Process each row
