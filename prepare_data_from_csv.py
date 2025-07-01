@@ -132,6 +132,8 @@ def read_args():
     )
     parser.add_argument("--debug", action="store_true", default=False)
     parser.add_argument("--suffix", type=str, default="")
+    # Add ext with mp4 as the default
+    parser.add_argument("--ext", type=str, default="mp4")
     args = parser.parse_args()
     return args
 
@@ -233,7 +235,7 @@ def process_row(row, data_list, id_col,action_col, desc_mode, frame_sampling, n_
     return data_list
 
 
-def load_csv(csv_file, video_dir, id_col, ext='mp4'):
+def load_csv(csv_file, video_dir, id_col, ext):
     """Load a CSV file into a pandas DataFrame."""
     print_header("Loading and validating data")
     print_progress(f"Loading CSV file from {csv_file}")
@@ -267,7 +269,7 @@ def main(args):
     print()
     
     # Load CSV
-    df = load_csv(args.input_csv, args.video_dir, args.id_col)
+    df = load_csv(args.input_csv, args.video_dir, args.id_col, args.ext)
     print_info(f"DataFrame shape: {df.shape}")
     print()
     
